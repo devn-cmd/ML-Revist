@@ -1,0 +1,1019 @@
+JobTitle,Industry,Location,YearsExperience,Salary_USD,Python,SQL,JavaScript,CloudSkills,MachineLearning,Communication,ProjectManagement,Cybersecurity,DataVisualization,JobDemandScore
+ML Engineer,Finance,Remote,19,50218,1,0,0,1,1,0,1,1,0,3.7
+Cybersecurity Analyst,Education,Remote,15,73087,1,0,0,1,0,1,0,1,1,5.3
+Cloud Engineer,Education,San Francisco,2,100802,1,0,0,1,1,1,1,0,0,6.2
+UI/UX Designer,Tech,London,5,157279,0,0,1,0,1,1,0,0,1,5.0
+DevOps Engineer,Tech,Remote,11,68089,0,1,0,1,0,0,0,1,0,8.2
+ML Engineer,Healthcare,Singapore,8,175556,1,,1,1,1,0,1,1,1,5.0
+Backend Developer,Government,Singapore,7,74151,1,1,0,0,0,0,0,1,1,9.2
+ML Engineer,Finance,London,13,166145,1,1,1,1,1,0,1,0,1,6.3
+Frontend Developer,Finance,San Francisco,10,171302,0,1,1,1,0,0,1,0,0,6.2
+ML Engineer,Government,Singapore,5,104810,1,1,0,1,1,1,0,1,0,4.8
+ML Engineer,E-commerce,San Francisco,5,151187,1,0,0,1,1,1,0,1,1,3.4
+Data Scientist,Healthcare,Singapore,15,120421,1,1,1,1,1,1,1,1,1,5.0
+ML Engineer,E-commerce,London,,,1,1,0,1,1,0,1,1,1,
+DevOps Engineer,Education,REMOTE,18,110613,0,1,1,1,1,1,0,0,0,4.5
+Frontend Developer,E-commerce,Kuala Lumpur,4,32026,1,0,1,1,0,0,0,0,1,3.6
+Cloud Engineer,Education,remote,13,32041,1,1,1,1,1,1,1,1,1,
+Data Analyst,Education,Kuala Lumpur,20,151105,1,1,1,0,0,0,1,0,1,7.7
+DevOps Engineer,Healthcare,London,16,128059,0,1,0,1,0,1,0,1,1,3.1
+Product Manager,Tech,Kuala Lumpur,15,,1,1,0,1,1,1,1,1,1,9.6
+UI/UX Designer,Education,New York,7,90977,1,0,1,0,1,1,0,0,0,6.7
+Data Analyst,Government,San Francisco,4,72638,1,1,0,0,0,0,0,1,1,3.1
+Product Manager,Healthcare,Singapore,19,171395,0,0,1,1,1,1,1,0,0,6.0
+UI/UX Designer,Finance,San Francisco,13,111162,1,0,1,0,0,1,1,1,1,7.9
+Data Scientist,E-commerce,New York,4,172984,1,1,0,1,1,0,0,0,1,4.8
+Cybersecurity Analyst,Government,New York,11,139424,1,,1,1,1,1,1,1,1,9.3
+Backend Developer,Education,Remote,12,44366,1,1,1,1,1,0,0,0,1,4.1
+Product Manager,Government,New York,7,33005,1,1,0,1,0,1,1,1,0,8.4
+ML Engineer,Tech,London,4,50609,1,0,1,1,1,1,0,0,0,
+UI/UX Designer,Finance,London,5,147325,0,0,1,1,1,1,0,1,1,3.3
+Backend Developer,Education,Kuala Lumpur,16,2292400,1,1,0,0,1,0,1,0,1,6.7
+Backend Developer,Finance,Remote,4,72300,1,1,1,0,1,1,0,0,1,8.9
+Product Manager,E-commerce,London,13,,0,0,1,0,1,1,1,1,0,9.1
+Frontend Developer,Finance,Singapore,15,42988,1,,1,1,1,0,1,1,1,5.3
+Data Analyst,Finance,Remote,15,37194,1,1,1,1,1,1,0,0,1,8.6
+ML Engineer,Healthcare,new york,2,166507,1,1,0,1,1,1,0,0,1,7.5
+Backend Developer,E-commerce,Kuala Lumpur,,98040,1,1,1,0,1,0,0,1,0,
+Product Manager,E-commerce,Singapore,15,92017,0,0,1,0,0,1,1,1,1,7.5
+Frontend Developer,Finance,Remote,4,92353,1,1,1,0,1,0,1,0,1,4.0
+Data Scientist,Healthcare,New York,6,66977,1,1,0,0,1,1,1,1,1,4.2
+Product Manager,Finance,New York,19,128092,,1,1,0,0,1,1,1,1,7.4
+Data Scientist,Tech,London,11,124940,1,1,0,1,1,0,1,1,1,6.8
+Cloud Engineer,Tech,REMOTE,2,52384,0,,0,1,1,1,0,0,0,8.1
+Product Manager,Finance,San Francisco,9,170056,0,1,1,1,0,1,1,0,0,
+Cybersecurity Analyst,Government,Singapore,11,153363,0,0,1,0,1,0,0,1,1,9.1
+Cloud Engineer,Finance,Kuala Lumpur,14,148754,0,1,1,1,1,1,1,1,1,8.9
+Backend Developer,Finance,New York,1,104492,1,1,0,0,0,0,1,0,0,5.1
+Cloud Engineer,Government,Singapore,9,85520,0,0,1,1,0,1,1,0,1,6.3
+Product Manager,E-commerce,Kuala Lumpur,17,88405,0,0,0,1,0,1,1,1,1,6.9
+ML Engineer,Education,Singapore,2,62031,1,1,0,1,1,0,1,1,0,4.9
+Frontend Developer,E-commerce,London,12,73329,1,0,1,1,1,1,0,0,0,3.2
+Data Scientist,Education,Singapore,6,54946,,1,0,0,1,0,0,1,1,9.0
+Devops,Tech,New York,19,179896,1,,1,1,1,0,0,0,0,
+Frontend Developer,Tech,London,19,156211,1,0,1,1,1,0,1,0,1,9.1
+Data Scientist,Healthcare,Remote,12,56193,1,1,1,0,1,1,1,0,1,8.7
+DevOps Engineer,Healthcare,San Francisco,19,79691,0,0,0,1,0,0,1,1,1,3.0
+Data Analyst,Finance,London,,160575,1,1,1,1,1,1,0,1,1,
+Frontend Developer,E-commerce,Remote,19,41903,1,1,1,1,1,0,0,0,1,4.5
+Data Scientist,Healthcare,San Francisco,3,42472,1,1,0,1,1,0,0,0,1,3.2
+Frontend Developer,Education,Remote,19,,0,0,1,1,1,0,0,1,0,5.3
+ML Eng,Government,New York,12,98354,1,1,1,1,1,1,1,1,0,8.1
+Cybersecurity Analyst,Tech,REMOTE,3,107136,1,1,0,1,0,0,1,1,0,6.3
+DevOps Engineer,Government,San Francisco,10,171930,0,1,1,1,0,0,0,1,0,5.8
+Cybersecurity Analyst,Tech,London,19,41073,0,1,0,0,1,0,0,1,1,
+Data Scientist,Education,Kuala Lumpur,12,35630,,1,1,0,1,1,1,0,1,8.3
+UI/UX Designer,Government,London,2,51827,1,0,1,1,1,1,1,0,1,9.5
+UI/UX Designer,Healthcare,New York,14,143945,1,0,1,0,1,1,1,0,0,7.3
+DevOps Engineer,Government,San Francisco,0,115651,0,1,0,1,1,1,0,1,1,5.6
+Cybersecurity Analyst,Government,San Francisco,4,72666,1,0,1,1,1,1,1,1,1,5.6
+Cybersecurity Analyst,Healthcare,San Francisco,10,30209,0,1,1,1,0,1,0,1,1,3.4
+Backend Developer,Government,Remote,8,173537,1,1,0,1,0,0,0,0,0,3.8
+Cybersecurity Analyst,E-commerce,REMOTE,15,62627,1,1,1,0,0,0,0,1,1,9.9
+ML Engineer,Finance,San Francisco,12,,1,1,1,1,1,0,0,0,1,8.3
+Cloud Engineer,E-commerce,Singapore,,76794,0,1,1,1,1,1,0,1,0,3.9
+Backend Developer,Government,San Francisco,8,68537,1,1,1,0,0,0,0,0,0,8.4
+Backend Developer,Healthcare,Kuala Lumpur,1,104103,1,1,0,1,1,1,1,0,0,8.0
+Data Analyst,Healthcare,New York,2,179288,1,1,0,0,1,1,1,1,1,5.1
+Backend Developer,Education,Remote,19,,1,1,1,0,1,1,1,0,1,5.6
+Data Analyst,Government,London,20,79465,1,1,0,0,1,0,0,1,1,8.7
+Cloud Engineer,Healthcare,San Francisco,,83031,1,1,0,1,0,0,1,0,1,6.9
+Cybersecurity Analyst,Healthcare,Kuala Lumpur,1,70981,0,0,0,1,0,1,1,1,0,6.1
+DevOps Engineer,Tech,new york,-2,114369,1,0,1,1,0,1,1,1,1,7.9
+Cloud Engineer,Tech,San Francisco,1,171516,,1,0,1,0,1,1,1,0,5.0
+ML Engineer,Finance,Kuala Lumpur,16,99774,1,0,0,1,1,0,1,0,0,9.2
+UI/UX Designer,Education,San Francisco,19,75277,0,0,1,0,0,1,0,1,0,3.9
+Cloud Engineer,Finance,London,5,148689,,0,1,1,0,1,0,0,0,9.6
+UI/UX Designer,Finance,San Francisco,17,177874,0,0,1,1,0,1,1,1,0,4.7
+UI/UX Designer,Finance,Remote,3,39335,1,0,1,0,1,1,0,1,1,8.7
+Data Analyst,Tech,Kuala Lumpur,,171341,1,1,0,0,0,1,1,1,1,4.5
+UI/UX Designer,Tech,London,16,78551,0,0,1,0,0,1,1,0,0,9.8
+ML Engineer,Tech,Singapore,12,2263960,,0,1,1,1,1,1,0,0,8.5
+Cybersecurity Analyst,E-commerce,London,12,38675,0,0,0,0,1,0,0,1,0,7.6
+Data Scientist,Tech,New York,0,121266,1,1,1,0,1,1,0,0,1,7.5
+Cloud Engineer,Tech,Kuala Lumpur,3,66993,,0,1,1,1,0,0,0,0,5.4
+Frontend Developer,Government,San Francisco,2,43577,,1,1,0,1,1,1,1,0,8.6
+Data Scientist,Education,Kuala Lumpur,16,,1,1,1,1,1,1,1,0,1,9.8
+UI/UX Designer,Education,London,18,179877,0,1,1,0,0,1,1,1,0,5.3
+Cybersecurity Analyst,Government,Kuala Lumpur,15,123197,1,1,0,0,1,0,1,1,1,5.9
+Cybersecurity Analyst,Government,Kuala Lumpur,13,131748,0,0,0,1,1,0,1,1,1,9.7
+Product Manager,Tech,Singapore,19,119423,1,0,1,0,0,1,1,0,1,9.4
+Product Manager,E-commerce,new york,11,53316,0,0,1,0,1,1,1,0,0,6.2
+Backend Developer,Finance,Remote,18,128830,1,1,0,1,0,1,0,1,1,9.4
+Data Analyst,E-commerce,London,3,39776,1,1,1,1,1,0,0,0,1,3.7
+ML Engineer,Government,New York,18,145759,1,1,1,1,1,0,1,1,0,8.7
+Cybersecurity Analyst,Tech,Singapore,7,1667660,0,1,0,0,0,0,1,1,1,8.3
+Frontend Developer,Healthcare,San Francisco,2,126390,0,1,1,1,0,0,0,0,1,7.7
+Product Manager,Education,Remote,19,136147,1,0,1,1,1,1,1,0,1,4.2
+Data Scientist,E-commerce,remote,2,51041,1,1,1,1,1,1,1,1,1,8.5
+ML Engineer,Healthcare,Remote,20,90206,1,1,1,1,1,0,1,1,1,9.8
+ML Engineer,Healthcare,Singapore,6,137808,,0,1,1,1,0,0,1,0,5.4
+Product Manager,E-commerce,New York,17,71655,0,1,1,1,1,1,1,0,0,7.7
+Backend Developer,Finance,San Francisco,12,70259,1,1,1,1,0,1,1,0,0,8.1
+Data Scientist,Finance,New York,13,134644,1,1,1,0,1,1,0,1,1,8.6
+Data Analyst,Tech,Remote,16,148782,1,1,1,1,0,0,1,1,1,5.0
+Frontend Developer,E-commerce,Kuala Lumpur,17,173349,1,,1,0,0,1,1,1,1,8.8
+ML Engineer,Government,San Francisco,0,179945,1,,1,1,1,1,1,0,0,5.0
+Cloud Engineer,Government,New York,15,3070180,1,0,0,1,0,0,0,0,0,3.5
+ML Eng,Education,Kuala Lumpur,18,78997,1,1,1,1,0,0,0,1,1,5.6
+Cloud Engineer,Tech,Remote,13,88526,1,1,1,1,1,1,0,1,1,8.2
+Cybersecurity Analyst,Tech,Kuala Lumpur,8,143629,1,1,0,0,0,1,0,1,0,7.4
+DevOps Engineer,Government,New York,17,53278,1,0,1,1,0,1,0,1,0,6.4
+Cybersecurity Analyst,E-commerce,New York,13,94151,0,0,1,1,0,1,1,1,0,6.1
+Frontend Developer,Tech,London,10,86513,0,0,1,1,1,1,1,1,1,9.4
+UI/UX Designer,Education,Remote,20,45717,0,1,1,0,0,1,1,0,0,10.0
+Frontend Developer,Government,Remote,7,53804,0,0,1,1,0,1,1,1,1,6.8
+ML Engineer,E-commerce,San Francisco,3,67803,1,,0,1,1,0,0,1,0,9.4
+DATA SCIENTIST,Education,San Francisco,13,,1,1,0,0,0,0,1,1,0,8.8
+devops engineer,E-commerce,New York,-2,151378,0,1,1,0,0,1,1,0,1,5.7
+Cloud Engineer,Finance,London,12,65236,1,0,1,1,0,1,0,1,0,6.8
+UI/UX Designer,Healthcare,Remote,7,77724,,0,1,0,0,1,1,0,0,3.9
+Product Manager,Finance,Remote,1,152081,0,0,0,0,1,1,1,1,0,7.7
+Data Scientist,Education,New York,,87418,1,1,0,0,1,0,1,0,1,7.6
+ML Engineer,Finance,Singapore,11,83182,1,0,1,1,1,0,1,0,0,3.2
+ML Engineer,E-commerce,San Francisco,0,170542,1,,0,1,1,1,1,1,0,6.4
+Data Analyst,Tech,San Francisco,20,39528,1,1,1,1,0,1,1,1,1,6.5
+Cybersecurity Analyst,Education,Remote,7,164733,0,1,0,1,0,1,0,1,1,7.3
+Cybersecurity Analyst,Tech,San Francisco,20,141185,1,1,0,0,1,1,0,1,0,7.5
+data scientist,Education,New York,17,132097,,1,1,1,1,1,0,1,1,4.4
+Frontend Developer,Education,London,3,126376,1,0,1,1,1,0,0,1,1,9.6
+Cloud Engineer,E-commerce,New York,14,118133,,0,1,1,0,0,0,0,1,9.1
+Data Scientist,Finance,Remote,8,80035,1,,0,0,1,1,1,0,1,8.1
+Backend Developer,Education,New York,19,120129,1,1,0,0,0,0,0,1,1,9.6
+Backend Developer,Healthcare,London,10,135751,1,1,1,1,0,1,0,0,0,8.0
+Cybersecurity Analyst,Government,Remote,19,150746,0,1,1,1,1,1,1,1,1,
+Data Scientist,E-commerce,San Francisco,0,50760,1,1,0,1,1,1,1,0,1,9.8
+UI/UX Designer,Finance,London,,108951,1,0,1,1,0,1,0,0,1,6.3
+Backend Developer,Healthcare,Singapore,8,165885,1,1,0,0,1,0,1,1,0,
+UI/UX Designer,Finance,New York,14,60654,0,1,1,1,1,1,1,1,1,9.0
+Frontend Developer,Finance,San Francisco,11,,0,0,1,0,0,1,0,1,0,3.9
+Cloud Engineer,Government,Kuala Lumpur,4,156814,0,0,1,1,1,1,1,0,1,9.6
+UI/UX Designer,Government,Kuala Lumpur,20,38388,1,,1,0,0,1,0,1,1,9.3
+DevOps Engineer,Education,Kuala Lumpur,20,160202,0,,1,1,0,0,0,0,1,4.3
+ML Engineer,Government,Singapore,8,150839,1,0,0,1,1,1,0,1,0,5.6
+Cloud Engineer,Healthcare,Singapore,3,145047,0,1,0,1,0,0,1,1,0,5.8
+Frontend Developer,E-commerce,Singapore,,148399,0,0,1,0,0,1,0,0,1,8.3
+Frontend Developer,Government,Remote,,50758,1,1,1,1,1,1,0,0,0,4.1
+Frontend Developer,Government,Singapore,0,162688,0,0,1,1,0,0,0,1,0,6.1
+ML Engineer,Tech,Kuala Lumpur,19,51762,1,0,1,1,1,0,0,0,0,
+devops engineer,Finance,San Francisco,2,34463,0,1,1,0,1,0,0,1,1,4.9
+Frontend Developer,Tech,Remote,4,40218,1,0,1,0,0,1,0,1,1,6.4
+Product Manager,Government,San Francisco,3,161445,0,0,1,0,0,1,1,0,1,4.6
+Cybersecurity Analyst,E-commerce,Remote,,155429,1,1,1,1,0,0,1,1,0,6.5
+ML Engineer,Healthcare,New York,12,1419440,1,1,0,1,1,1,1,1,0,3.0
+Backend Developer,Finance,London,14,80370,1,1,0,0,0,0,0,0,1,5.6
+DevOps Engineer,Education,Singapore,5,55364,1,0,1,1,0,1,0,0,1,9.0
+DATA SCIENTIST,Government,London,6,57237,1,0,1,0,1,1,1,1,0,3.8
+ML Engineer,Tech,Remote,1,65631,1,1,1,1,1,1,1,0,1,
+Product Manager,Tech,London,3,142550,0,1,1,0,0,1,1,1,0,6.4
+Data Analyst,Government,Remote,2,42379,1,1,1,1,0,1,0,1,1,5.1
+Data Analyst,Education,San Francisco,-5,148341,,1,1,0,0,0,1,0,1,5.5
+DevOps Engineer,Tech,San Francisco,19,121388,0,1,0,1,1,0,0,0,1,7.6
+Frontend Developer,Finance,Kuala Lumpur,16,67911,1,0,1,0,1,1,1,1,0,7.1
+DevOps Engineer,Government,New York,3,,0,0,1,1,1,0,0,0,0,
+Cybersecurity Analyst,E-commerce,Singapore,0,79106,,1,1,1,0,0,0,1,1,4.6
+Cybersecurity Analyst,Government,Kuala Lumpur,18,135416,1,0,0,1,0,1,0,1,1,8.2
+Cloud Engineer,Education,San Francisco,6,783360,0,1,1,1,1,0,0,1,1,5.3
+DevOps Engineer,Education,Remote,8,31663,1,1,1,1,0,1,1,0,0,7.1
+UI/UX Designer,Tech,San Francisco,20,93532,0,1,1,1,0,1,0,0,0,6.0
+UI/UX Designer,Government,Singapore,13,76985,0,1,1,0,1,1,1,1,1,6.5
+Data Analyst,Healthcare,San Francisco,10,64323,1,1,1,1,0,1,0,0,1,4.8
+ML Engineer,Healthcare,Singapore,4,81985,1,1,0,1,1,1,0,1,1,7.7
+Data Analyst,Healthcare,New York,12,,1,1,0,0,1,1,0,0,1,4.6
+Cloud Engineer,Government,Kuala Lumpur,17,81668,0,0,1,1,0,0,0,1,0,8.9
+UI/UX Designer,Tech,Singapore,18,126742,1,0,1,1,1,1,1,1,1,4.0
+Product Manager,Healthcare,Remote,9,97038,1,1,1,1,1,1,1,0,0,9.3
+Backend Developer,Finance,New York,8,82000,1,1,1,1,1,1,1,0,0,4.7
+Frontend Developer,E-commerce,Remote,1,102314,1,0,1,1,0,1,1,0,1,5.2
+Cloud Engineer,Healthcare,Kuala Lumpur,8,50195,0,1,0,1,0,0,0,1,0,8.6
+Product Manager,Finance,Kuala Lumpur,15,135083,,1,1,1,1,1,1,0,1,
+Data Analyst,E-commerce,San Francisco,11,165799,1,1,1,1,1,0,0,0,1,4.1
+Data Scientist,Government,Kuala Lumpur,12,87769,1,1,0,1,1,0,1,0,1,5.9
+ML Engineer,Government,London,0,176692,1,0,0,1,1,0,1,1,1,
+Data Scientist,Tech,Remote,15,170974,1,1,1,1,1,1,0,1,1,4.5
+Product Manager,Government,San Francisco,2,143841,0,0,0,0,1,1,1,0,1,3.7
+Cloud Engineer,Finance,Kuala Lumpur,19,33915,0,0,0,1,1,1,1,0,1,6.7
+DevOps Engineer,Government,Singapore,,140613,1,0,1,1,0,0,0,0,1,6.4
+Cloud Engineer,Healthcare,Singapore,-1,68783,,1,1,1,0,1,0,0,1,7.6
+Cybersecurity Analyst,Tech,REMOTE,16,72115,0,0,1,0,0,0,1,1,0,3.3
+Data Scientist,Healthcare,New York,5,166021,1,1,0,0,1,1,1,0,1,3.8
+ML Engineer,Finance,San Francisco,15,166975,1,0,0,1,1,1,1,0,0,9.2
+UI/UX Designer,Tech,New York,6,51595,,1,1,1,1,1,1,0,1,9.4
+Data Analyst,Healthcare,Kuala Lumpur,14,166008,1,1,0,0,0,1,1,0,1,3.0
+ML Engineer,E-commerce,San Francisco,1,95822,1,1,1,1,1,0,0,1,1,5.2
+UI/UX Designer,Government,Singapore,13,41894,1,0,1,0,0,1,0,1,0,7.6
+Backend Developer,E-commerce,Kuala Lumpur,1,106497,1,1,1,0,1,1,1,1,0,6.3
+Data Scientist,Government,Remote,2,35331,1,1,0,0,1,1,0,1,1,6.9
+Cloud Engineer,Finance,Remote,13,176747,0,1,0,1,1,1,0,0,1,3.3
+Product Manager,Finance,Remote,8,142425,1,1,0,0,0,1,1,0,1,7.1
+DevOps Engineer,E-commerce,Remote,0,53969,1,1,0,1,0,1,1,0,0,4.8
+UI/UX Designer,Government,Remote,7,111155,1,1,1,1,0,1,0,1,1,6.5
+UI/UX Designer,Finance,New York,3,50320,1,1,1,1,0,1,1,1,0,9.7
+Product Manager,Government,London,-1,103812,0,0,1,0,0,1,1,0,1,3.2
+ML Engineer,Government,Singapore,16,76091,,1,0,1,1,1,1,0,1,7.6
+ML Engineer,Tech,Remote,6,121670,1,0,1,1,1,1,1,0,1,8.2
+Data Scientist,Government,Kuala Lumpur,20,65138,1,1,1,0,1,0,1,0,1,
+ML Engineer,Tech,New York,17,60222,1,1,1,1,1,1,0,1,0,7.0
+Data Analyst,Education,Kuala Lumpur,16,62152,1,1,0,0,0,0,1,1,1,8.9
+Product Manager,Finance,London,15,141557,1,1,1,0,0,1,1,0,1,5.0
+Data Scientist,Government,New York,4,66175,1,,1,0,1,0,1,0,1,3.4
+Data Analyst,Government,New York,7,159997,1,1,1,0,1,1,1,0,1,7.6
+Cloud Engineer,Tech,New York,12,177690,0,1,0,1,0,1,1,0,0,6.8
+Backend Developer,Education,Kuala Lumpur,0,,1,1,0,0,0,0,0,0,0,7.8
+Frontend Developer,Tech,Singapore,2,173348,0,0,1,1,0,0,0,0,1,6.2
+Devops,Government,Remote,9,120391,1,1,0,1,1,0,1,1,1,5.3
+Data Analyst,Tech,New York,20,139322,1,,1,0,1,0,1,1,1,7.4
+Data Scientist,E-commerce,New York,19,90425,1,1,1,1,1,1,1,0,1,4.9
+Product Manager,Tech,San Francisco,10,89973,1,1,1,1,0,1,1,0,0,9.5
+Data Scientist,Education,New York,2,104717,1,1,1,0,1,0,0,1,1,4.8
+Frontend Developer,Government,London,4,85538,0,1,1,0,1,0,0,0,1,6.8
+Cloud Engineer,Finance,London,0,49270,1,0,1,1,1,1,0,0,1,4.4
+DevOps Engineer,E-commerce,San Francisco,1,167497,0,0,0,1,0,1,1,1,0,7.2
+ML Engineer,Finance,London,8,160142,1,1,0,1,1,1,0,0,1,3.1
+Cybersecurity Analyst,Education,Remote,18,77954,,0,0,1,1,0,1,1,0,4.0
+Data Analyst,Finance,Remote,,66431,1,1,0,1,1,0,0,0,1,9.9
+Product Manager,Education,San Francisco,19,132906,1,0,0,0,0,1,1,0,1,7.3
+Frontend Developer,E-commerce,San Francisco,11,101184,0,1,1,1,1,1,1,0,0,9.3
+Product Manager,E-commerce,San Francisco,15,71241,1,1,0,1,0,1,1,0,0,6.3
+ML Engineer,Tech,New York,18,161209,1,1,0,1,1,0,0,0,0,3.8
+ML Engineer,Healthcare,New York,7,60243,1,,1,1,1,1,1,1,0,8.9
+Product Manager,Tech,Kuala Lumpur,20,69664,1,0,1,1,0,1,1,1,0,3.9
+Data Analyst,Healthcare,New York,11,106663,1,1,0,0,1,0,1,0,1,8.6
+DATA SCIENTIST,E-commerce,Remote,3,167569,0,0,0,1,1,0,1,1,1,9.2
+Frontend Developer,E-commerce,London,19,105651,1,0,1,1,1,0,1,1,1,3.2
+Frontend Developer,Healthcare,Remote,,103451,1,1,1,0,0,1,0,0,1,6.7
+Data Analyst,Tech,London,2,149170,1,1,0,1,1,1,0,1,1,4.8
+Data Scientist,Tech,New York,14,76692,1,1,1,0,1,1,0,1,1,7.2
+Cybersecurity Analyst,Government,Remote,16,134863,0,0,0,0,0,1,1,1,0,3.6
+Data Analyst,Tech,London,1,47592,1,1,0,1,1,1,1,0,1,9.4
+DevOps Engineer,Tech,New York,20,52624,1,0,0,1,0,0,1,1,1,4.3
+Data Analyst,Tech,Kuala Lumpur,9,163999,1,1,1,1,1,1,0,0,1,3.0
+Cloud Engineer,Tech,Kuala Lumpur,20,60670,1,1,0,1,0,1,1,0,0,7.1
+ML Engineer,Government,Kuala Lumpur,10,154109,1,1,0,1,1,1,1,1,0,3.4
+Data Analyst,Healthcare,New York,14,86259,1,1,1,0,0,1,1,0,1,6.2
+Frontend Developer,Finance,Kuala Lumpur,16,111432,1,0,1,0,1,0,1,1,0,3.5
+ML Engineer,Tech,Kuala Lumpur,1,120850,1,1,1,1,1,1,1,1,0,6.8
+Data Analyst,Healthcare,New York,12,,1,1,0,0,0,0,0,0,1,3.1
+ML Engineer,E-commerce,San Francisco,5,146637,1,0,0,1,1,0,1,1,1,8.2
+ML Engineer,E-commerce,London,-4,178855,1,1,0,1,1,1,1,0,0,9.4
+data scientist,E-commerce,new york,17,175750,1,1,1,1,1,0,0,0,1,8.9
+Cloud Engineer,Finance,San Francisco,19,132537,1,1,0,1,1,0,1,1,0,8.6
+Data Scientist,Education,London,12,135465,,1,1,1,1,0,1,1,1,4.3
+DevOps Engineer,Education,Remote,4,40304,1,1,1,1,1,1,1,1,1,5.7
+DevOps Engineer,Healthcare,San Francisco,18,38476,1,1,0,1,0,0,0,0,0,7.3
+Cloud Engineer,Government,London,13,34257,1,0,1,1,1,1,0,0,1,5.3
+Frontend Developer,Government,Kuala Lumpur,17,121867,1,,1,0,1,0,1,1,0,5.5
+Frontend Developer,Finance,London,,157181,1,0,1,0,1,0,0,0,0,4.2
+Backend Developer,Education,New York,5,52966,1,1,1,1,0,0,1,0,0,9.4
+ML Engineer,Finance,new york,13,54185,1,1,0,1,1,1,1,0,1,5.4
+Data Analyst,Education,Kuala Lumpur,17,138795,1,1,0,1,1,1,0,1,1,3.9
+Product Manager,E-commerce,Singapore,12,39538,0,1,1,1,1,1,1,0,1,5.5
+Data Analyst,Tech,New York,20,122589,1,1,1,0,0,0,1,1,1,5.4
+ML Engineer,Government,New York,11,91752,1,0,0,1,1,1,1,0,1,5.5
+Cloud Engineer,Healthcare,New York,2,111849,0,1,0,1,0,1,1,1,0,7.1
+Data Scientist,Government,Kuala Lumpur,,102349,1,1,0,1,1,0,1,0,1,4.7
+Frontend Developer,Tech,REMOTE,7,77047,0,0,1,1,0,1,1,0,1,
+ML Engineer,Healthcare,New York,3,149148,1,0,0,1,1,1,1,0,1,9.3
+Cloud Engineer,Finance,Singapore,14,64291,1,0,0,1,1,1,1,1,1,7.3
+Data Analyst,Tech,Remote,16,97160,1,1,0,1,1,1,1,0,1,8.7
+DATA SCIENTIST,Tech,London,20,122703,0,1,0,1,1,0,0,1,1,
+Cloud Engineer,Healthcare,San Francisco,6,175261,0,0,0,1,0,1,1,0,0,5.4
+devops engineer,E-commerce,New York,16,177962,1,0,0,1,1,1,0,1,0,
+Product Manager,Healthcare,London,4,65001,0,0,1,1,1,1,1,0,0,4.1
+DATA SCIENTIST,Education,London,1,48112,1,0,1,0,1,1,0,1,0,3.3
+Product Manager,Healthcare,San Francisco,1,71169,1,0,0,0,1,1,1,1,0,5.3
+Frontend Developer,E-commerce,London,16,177267,0,1,1,1,1,1,0,0,1,
+DATA SCIENTIST,Government,Kuala Lumpur,12,154670,0,0,0,1,0,1,1,0,0,9.6
+Frontend Developer,Government,Singapore,,80278,0,0,1,0,1,1,0,0,1,5.3
+DevOps Engineer,Tech,London,2,129028,0,1,0,1,1,0,1,0,1,4.6
+Cybersecurity Analyst,Tech,Remote,,1817240,1,1,1,0,0,0,0,1,0,8.9
+UI/UX Designer,Tech,Remote,,112854,1,0,1,1,1,1,0,1,0,4.1
+Product Manager,Tech,Singapore,18,159837,0,1,0,1,1,1,1,0,0,3.7
+DATA SCIENTIST,Education,London,,174268,1,1,0,1,1,1,0,1,0,6.4
+Backend Developer,Government,Singapore,9,72416,1,1,1,0,0,0,0,0,1,9.7
+UI/UX Designer,Education,REMOTE,18,146001,1,0,1,0,0,1,1,1,1,4.3
+DATA SCIENTIST,E-commerce,Singapore,12,129952,1,1,1,0,0,0,1,0,0,3.9
+DevOps Engineer,Government,Singapore,14,66909,1,1,1,1,0,0,1,1,1,8.5
+ML Eng,Healthcare,New York,,171323,0,1,0,0,0,1,1,1,0,3.1
+ML Engineer,E-commerce,London,,177049,1,0,0,1,1,1,1,0,1,8.4
+Cybersecurity Analyst,Tech,Remote,9,149360,0,0,0,0,1,0,0,1,1,9.0
+devops engineer,Finance,Remote,,78494,1,,1,1,1,0,0,0,1,5.0
+Cybersecurity Analyst,Tech,San Francisco,16,164055,0,0,0,1,1,0,0,1,0,3.8
+DevOps Engineer,Education,Kuala Lumpur,12,145542,1,1,0,1,1,0,1,1,0,5.8
+Backend Developer,Tech,New York,2,32821,1,1,1,1,1,1,1,1,0,8.9
+Data Analyst,E-commerce,Remote,17,96603,1,1,0,1,0,1,1,0,1,
+DevOps Engineer,E-commerce,Kuala Lumpur,4,31388,0,0,0,1,0,0,1,1,0,8.5
+Product Manager,Finance,San Francisco,17,95824,0,,1,0,1,1,1,0,1,4.8
+DevOps Engineer,Finance,Remote,17,164391,1,1,0,1,1,1,0,1,1,8.2
+Cloud Engineer,Finance,Kuala Lumpur,18,155266,0,1,1,1,0,1,1,1,0,4.0
+Product Manager,Education,New York,7,108489,0,0,0,0,1,1,1,1,0,
+Devops,Tech,Remote,6,171996,0,0,1,1,1,1,0,1,0,7.3
+Backend Developer,Healthcare,New York,20,42246,1,1,0,0,0,1,0,0,0,3.6
+Frontend Developer,Education,Kuala Lumpur,1,56350,0,1,1,0,0,0,1,0,1,5.8
+Cybersecurity Analyst,Government,Kuala Lumpur,6,64838,1,1,1,1,1,0,0,1,0,4.6
+ML Engineer,Finance,San Francisco,10,85909,1,0,1,1,1,1,0,0,0,7.9
+Data Scientist,Education,London,4,81392,1,1,0,0,1,1,1,0,1,7.1
+Cybersecurity Analyst,Government,Remote,19,115435,1,0,1,0,0,0,0,1,0,6.0
+Data Analyst,E-commerce,New York,8,152102,1,1,1,0,0,1,0,0,1,8.5
+Cybersecurity Analyst,Healthcare,Kuala Lumpur,18,149575,1,1,1,1,0,1,1,1,0,4.3
+DevOps Engineer,Education,Remote,2,,1,0,1,1,1,0,0,1,1,7.1
+Cloud Engineer,Finance,New York,5,74574,0,0,0,1,1,0,0,1,0,8.4
+Product Manager,Tech,KL,2,,0,0,0,1,0,1,1,1,0,9.1
+Data Scientist,Government,Singapore,2,159363,1,1,0,0,1,0,1,1,1,3.5
+Data Scientist,Government,San Francisco,6,96044,1,1,0,1,1,0,1,0,1,6.0
+Data Scientist,Tech,Kuala Lumpur,-3,87409,1,1,0,0,1,0,1,0,1,3.3
+ML Engineer,Finance,San Francisco,0,178538,1,1,0,1,1,1,1,1,0,3.8
+DevOps Engineer,Government,new york,6,35398,1,1,1,1,0,1,0,1,1,9.1
+Data Scientist,E-commerce,San Francisco,4,41347,1,1,1,1,1,1,1,0,1,9.9
+Data Scientist,Government,New York,14,116648,1,1,1,0,1,1,1,1,1,7.3
+Data Analyst,Government,KL,0,63281,1,1,0,1,1,0,1,1,1,5.4
+DevOps Engineer,E-commerce,Singapore,19,,1,1,0,1,1,0,1,1,0,9.8
+ML Engineer,Education,New York,-4,,1,1,0,1,1,1,1,0,1,5.2
+DevOps Engineer,E-commerce,London,9,168802,1,0,1,1,1,1,0,0,0,9.0
+Product Manager,Finance,Singapore,9,114468,0,1,1,1,0,1,1,1,1,
+Backend Developer,Finance,Remote,13,106625,,1,1,0,0,1,1,1,0,7.3
+Frontend Developer,Tech,San Francisco,12,137839,0,0,1,1,0,1,1,0,0,4.3
+UI/UX Designer,Education,New York,17,150692,0,1,1,1,0,1,1,0,1,3.7
+DevOps Engineer,Finance,Remote,4,116782,0,0,0,1,0,1,0,0,0,4.0
+Cybersecurity Analyst,Healthcare,Singapore,10,30676,0,0,0,0,1,1,1,1,1,7.0
+Backend Developer,Education,London,7,100803,1,1,0,1,1,0,1,1,0,6.7
+DevOps Engineer,Education,London,12,39326,0,1,1,1,0,0,0,1,0,7.2
+UI/UX Designer,Finance,Singapore,20,175394,1,0,1,0,0,1,1,0,0,4.4
+Frontend Developer,Healthcare,Singapore,1,78951,1,0,1,1,0,0,1,1,1,6.1
+Product Manager,Education,Kuala Lumpur,19,,0,0,0,1,0,1,1,0,0,8.7
+UI/UX Designer,Government,Kuala Lumpur,-5,51974,0,1,1,1,0,1,1,1,0,8.1
+Product Manager,E-commerce,New York,20,121886,0,0,0,1,1,1,1,1,1,9.4
+Backend Developer,Government,Remote,16,127021,1,1,0,0,0,0,1,1,0,4.1
+Cloud Engineer,Healthcare,San Francisco,,78167,0,0,1,1,1,1,0,1,1,8.2
+Data Analyst,Government,Kuala Lumpur,14,35173,1,1,0,1,1,1,1,1,1,9.5
+DevOps Engineer,E-commerce,New York,11,105324,,0,1,1,0,0,1,1,0,7.1
+Cybersecurity Analyst,Finance,San Francisco,7,98542,1,1,0,1,1,0,1,1,0,5.7
+Frontend Developer,Tech,Remote,7,44329,,0,1,0,0,0,1,0,1,5.9
+ML Engineer,Finance,remote,6,134041,1,0,0,1,1,0,0,0,1,4.2
+Cybersecurity Analyst,Finance,New York,17,169756,0,1,0,1,1,1,1,1,1,6.0
+Data Scientist,Tech,Kuala Lumpur,19,50086,1,1,1,0,1,1,0,0,1,4.9
+UI/UX Designer,Government,San Francisco,5,,0,0,1,0,1,1,1,1,1,6.9
+DevOps Engineer,Education,London,3,121868,0,0,0,1,1,0,0,0,0,5.1
+Frontend Developer,E-commerce,San Francisco,1,177065,0,0,1,1,0,1,0,1,0,5.4
+Product Manager,Finance,London,15,108363,0,0,1,0,1,1,1,0,0,
+Data Analyst,Education,London,3,144481,1,1,0,1,0,0,1,0,1,7.3
+ML Eng,Education,Kuala Lumpur,18,78997,1,1,1,1,0,0,0,1,1,5.6
+ML Engineer,Finance,Kuala Lumpur,12,41533,1,0,0,1,1,0,0,1,1,5.6
+Product Manager,Government,new york,9,96308,,0,1,0,0,1,1,0,0,9.3
+ML Engineer,Finance,New York,-3,132795,1,1,0,1,1,0,0,1,1,3.0
+Product Manager,Tech,new york,0,139124,0,0,1,1,0,1,1,1,0,6.2
+Data Scientist,Education,Kuala Lumpur,3,,1,1,0,0,1,1,1,1,1,9.4
+Product Manager,Education,Remote,13,,0,1,1,1,1,1,1,1,0,8.9
+DevOps Engineer,Finance,New York,16,106651,1,1,1,1,1,1,0,0,1,
+Backend Developer,E-commerce,Remote,20,114472,1,1,1,1,0,1,0,0,1,9.7
+Cybersecurity Analyst,Finance,Remote,17,84132,0,0,0,1,0,0,0,1,1,8.9
+Cybersecurity Analyst,E-commerce,Remote,,71006,1,1,1,1,0,0,0,1,1,
+Data Scientist,Government,new york,12,122938,1,,0,1,1,1,1,0,1,8.5
+Cloud Engineer,Finance,Kuala Lumpur,12,55998,1,1,0,1,0,1,0,1,1,4.6
+Product Manager,Education,New York,13,37371,0,0,0,0,0,1,1,1,1,6.9
+Data Scientist,Government,KL,9,37334,,1,1,0,1,0,0,0,1,6.9
+DevOps Engineer,Finance,Remote,16,107177,0,0,1,1,1,1,0,1,1,4.2
+Frontend Developer,Healthcare,Kuala Lumpur,10,34784,0,,1,0,0,0,0,1,1,4.4
+Backend Developer,Government,San Francisco,16,114103,1,1,0,0,1,1,1,1,0,4.9
+Cloud Engineer,Government,Kuala Lumpur,11,51144,0,1,0,1,0,1,1,1,1,6.3
+ML Engineer,E-commerce,Remote,5,103847,1,1,1,1,1,0,1,1,0,5.3
+Cloud Engineer,Government,San Francisco,0,85707,0,,0,1,0,0,1,1,1,4.4
+Frontend Developer,Government,Singapore,12,129657,1,0,1,0,1,0,1,1,1,9.5
+Data Analyst,E-commerce,Singapore,11,84752,1,1,1,0,1,1,0,1,1,5.3
+ML Engineer,Tech,KL,11,158882,1,1,1,1,1,0,0,0,1,9.1
+Product Manager,Government,new york,14,161129,1,0,1,1,1,1,1,0,0,3.1
+Data Scientist,Healthcare,London,11,89584,1,1,1,0,1,0,1,0,1,9.9
+Cybersecurity Analyst,E-commerce,Remote,14,143999,0,1,0,0,1,1,0,1,0,3.1
+ML Engineer,Finance,Kuala Lumpur,12,79852,1,1,1,1,1,1,1,0,0,4.3
+Cloud Engineer,E-commerce,Singapore,,,0,0,0,1,1,0,1,0,0,6.5
+Frontend Developer,Tech,Kuala Lumpur,15,30075,0,0,1,0,0,0,1,0,0,5.8
+ML Engineer,Education,Singapore,11,147586,1,1,0,1,1,1,0,0,0,7.0
+ML Engineer,E-commerce,Kuala Lumpur,14,159399,1,0,0,1,1,0,0,1,0,4.8
+Frontend Developer,Government,New York,0,97848,1,1,1,0,1,1,0,1,1,9.2
+Product Manager,Tech,Kuala Lumpur,2,66747,1,1,0,0,0,1,1,1,0,9.9
+Frontend Developer,Education,New York,9,65729,0,0,1,0,0,0,1,0,0,
+Data Analyst,Education,Singapore,,143316,1,1,0,1,0,0,1,0,1,7.5
+Frontend Developer,E-commerce,London,4,172729,1,0,1,1,1,1,1,1,0,8.1
+Cloud Engineer,Tech,New York,10,103059,0,1,1,1,0,0,0,1,1,8.7
+Data Analyst,Tech,Kuala Lumpur,11,167982,1,1,0,1,0,0,1,0,1,4.5
+Data Analyst,E-commerce,San Francisco,8,148349,1,1,1,0,0,1,1,1,1,6.7
+Data Scientist,Healthcare,Kuala Lumpur,4,120495,1,1,1,1,1,1,1,0,1,4.3
+Backend Developer,Tech,Singapore,2,108618,1,1,1,0,0,0,1,1,1,3.4
+ML Engineer,Government,New York,13,94130,1,1,0,1,1,1,0,0,0,
+Product Manager,Education,London,11,150068,0,1,1,1,0,1,1,0,0,3.7
+ML Engineer,Tech,Singapore,11,161263,1,1,0,1,1,0,1,0,1,4.6
+ML Engineer,Tech,San Francisco,2,150130,1,0,0,1,1,1,0,0,0,7.1
+Cybersecurity Analyst,Finance,Singapore,1,113527,,0,0,0,0,1,0,1,1,8.1
+Product Manager,Tech,New York,5,96944,0,0,0,0,1,1,1,0,1,8.9
+Data Scientist,Education,Kuala Lumpur,0,174372,1,1,0,0,1,1,1,0,1,9.7
+Backend Developer,Education,New York,4,101477,1,1,0,1,1,0,0,1,0,5.4
+Cybersecurity Analyst,Education,Singapore,6,72341,0,0,1,0,1,1,1,1,0,6.1
+ML Engineer,E-commerce,Kuala Lumpur,4,72178,1,1,1,1,1,1,1,1,1,8.1
+Data Scientist,Tech,San Francisco,11,34385,1,1,0,1,1,0,1,1,1,5.3
+ML Eng,Education,New York,8,144553,1,1,1,1,1,1,0,0,1,9.4
+ML Engineer,Finance,Remote,20,118501,1,,1,1,1,1,1,0,1,5.0
+Product Manager,Education,New York,17,71598,1,1,1,1,1,1,1,0,1,6.1
+ML Engineer,Government,Singapore,2,,1,1,0,1,1,0,1,1,0,3.6
+Data Analyst,Finance,London,17,79324,1,1,0,0,0,1,0,0,1,6.4
+ML Engineer,Finance,Remote,19,85472,1,0,0,1,1,0,0,0,0,7.8
+ML Engineer,Healthcare,Kuala Lumpur,18,134126,,0,0,1,1,0,1,0,0,8.9
+Product Manager,Healthcare,Remote,17,138996,1,1,1,0,1,1,1,1,1,6.4
+ML Engineer,Healthcare,London,8,47250,1,0,1,1,1,0,1,1,0,6.9
+UI/UX Designer,Healthcare,Kuala Lumpur,19,77275,1,1,1,1,1,1,1,1,1,5.2
+Cloud Engineer,Government,Kuala Lumpur,7,174955,0,0,0,1,0,1,1,0,0,5.3
+Frontend Developer,Government,San Francisco,5,154550,1,1,1,1,1,1,0,1,1,4.1
+Cybersecurity Analyst,Finance,Kuala Lumpur,19,126344,1,1,1,0,0,0,1,1,0,7.1
+ML Engineer,Finance,San Francisco,19,164549,1,1,0,1,1,1,0,1,0,8.3
+UI/UX Designer,Tech,Remote,4,132455,0,0,1,0,0,1,0,1,1,5.2
+ML Engineer,Education,Remote,17,139303,1,0,1,1,1,1,0,0,0,4.0
+Cybersecurity Analyst,Government,Singapore,2,32249,1,0,0,1,0,1,1,1,1,5.2
+Data Scientist,Tech,New York,2,178565,1,1,0,1,1,1,0,1,1,
+UI/UX Designer,Tech,Remote,3,93201,1,1,1,0,1,1,0,1,1,5.7
+Data Analyst,Government,San Francisco,-2,50520,1,,0,0,0,0,0,1,1,7.1
+DevOps Engineer,Government,Kuala Lumpur,18,61760,0,0,1,1,0,0,1,1,1,3.4
+ML Engineer,Education,Kuala Lumpur,10,,1,0,1,1,1,1,0,1,0,7.4
+Frontend Developer,Tech,Kuala Lumpur,15,108659,1,0,1,1,0,0,1,1,1,9.7
+Product Manager,E-commerce,Kuala Lumpur,4,176667,1,0,1,1,0,1,1,0,1,9.8
+Data Scientist,Tech,Singapore,11,175606,1,1,1,1,1,0,1,1,1,5.5
+ML Engineer,Government,San Francisco,14,160741,1,1,0,1,1,0,0,1,0,5.0
+Data Analyst,Tech,Kuala Lumpur,15,166578,1,,1,0,0,0,1,1,1,7.3
+Data Scientist,Education,Remote,7,156360,,,1,1,1,0,0,1,1,
+Cybersecurity Analyst,Finance,New York,,134393,1,0,0,1,0,0,1,1,0,8.7
+Product Manager,Tech,London,15,173088,0,0,0,0,0,1,1,0,1,9.6
+Cloud Engineer,Healthcare,San Francisco,18,111500,,1,0,1,0,1,1,1,0,6.3
+Product Manager,Education,San Francisco,19,154701,0,1,0,0,1,1,1,1,1,5.1
+Data Scientist,Government,Singapore,15,101620,1,1,0,1,1,1,0,1,1,5.3
+DevOps Engineer,Finance,Singapore,8,153744,0,0,0,1,0,1,0,0,1,9.0
+DevOps Engineer,E-commerce,Kuala Lumpur,17,44517,1,0,1,1,1,1,1,1,0,9.8
+DevOps Engineer,Tech,San Francisco,,106333,0,1,0,1,0,1,1,1,0,
+Product Manager,Finance,Singapore,,81176,1,0,0,1,0,1,1,0,0,5.0
+Frontend Developer,E-commerce,Remote,3,155512,1,1,1,0,1,0,1,1,1,3.8
+ML Engineer,Tech,London,18,30781,1,0,1,1,1,1,1,1,0,
+Cybersecurity Analyst,Healthcare,San Francisco,14,61063,1,0,0,1,0,1,1,1,0,3.7
+UI/UX Designer,Healthcare,London,4,42603,0,1,1,1,1,1,1,0,1,6.2
+UI/UX Designer,Healthcare,London,7,56722,1,1,1,1,0,1,1,1,1,6.9
+Backend Developer,Healthcare,San Francisco,15,166400,1,1,1,0,0,0,0,0,0,3.5
+Backend Developer,Education,New York,5,52966,1,1,1,1,0,0,1,0,0,9.4
+Data Analyst,Tech,London,7,172769,1,1,1,1,1,0,1,0,1,
+Backend Developer,Education,New York,,154473,1,,1,0,1,1,0,0,0,8.0
+Cybersecurity Analyst,Healthcare,Kuala Lumpur,16,178703,1,1,1,0,1,1,0,1,0,6.8
+Cloud Engineer,Finance,San Francisco,9,133105,1,1,1,1,1,0,0,1,0,5.1
+Data Analyst,Healthcare,Remote,-2,129873,1,1,0,1,1,1,0,1,1,7.9
+UI/UX Designer,Healthcare,London,7,141669,0,0,1,0,1,1,0,0,1,7.1
+Frontend Developer,Healthcare,Kuala Lumpur,20,141594,0,0,1,1,0,1,0,0,0,
+Product Manager,Government,Remote,11,140991,1,1,0,0,0,1,1,1,0,3.3
+ML Engineer,Education,Kuala Lumpur,1,159475,1,,1,1,1,0,0,1,0,9.6
+Product Manager,Education,Kuala Lumpur,7,64335,1,1,1,1,0,1,1,1,0,4.2
+Data Scientist,Tech,London,11,126412,1,1,0,1,1,0,1,0,1,
+UI/UX Designer,Government,Remote,3,156100,1,0,1,1,0,1,1,0,0,9.3
+Devops,E-commerce,New York,14,102903,1,1,1,1,1,1,1,1,1,5.4
+Frontend Developer,Healthcare,San Francisco,4,72789,,0,1,0,1,0,0,0,1,8.3
+Product Manager,Tech,Remote,9,,,0,0,1,0,1,1,1,0,6.9
+Frontend Developer,Tech,Singapore,,115617,1,0,1,0,1,1,1,0,0,6.0
+Cloud Engineer,Tech,Remote,8,37353,0,1,1,1,1,1,1,0,1,4.0
+UI/UX Designer,Healthcare,Kuala Lumpur,10,149031,1,0,1,1,0,1,0,1,0,5.6
+Data Analyst,Finance,London,9,125190,1,1,1,1,0,0,0,0,1,5.1
+Data Scientist,Finance,London,10,93373,,1,1,1,1,1,0,0,1,3.0
+Frontend Developer,E-commerce,Remote,16,83540,0,1,1,0,0,1,1,0,1,3.9
+ML Engineer,Government,London,0,150718,1,0,1,1,1,1,0,0,0,
+Frontend Developer,E-commerce,New York,0,101059,0,0,1,0,1,0,1,0,1,4.6
+Frontend Developer,Education,San Francisco,6,93954,0,0,1,1,1,0,0,1,1,8.9
+DevOps Engineer,Healthcare,Kuala Lumpur,12,112394,1,0,1,1,1,1,0,0,1,9.2
+UI/UX Designer,Healthcare,Kuala Lumpur,5,78228,1,1,1,0,0,1,1,1,1,5.3
+Frontend Developer,Tech,London,11,150252,0,1,1,1,1,1,1,0,0,9.1
+Product Manager,Education,Kuala Lumpur,7,56884,0,0,1,1,0,1,1,0,1,4.0
+UI/UX Designer,Finance,London,13,74079,0,0,1,1,0,1,0,1,0,6.1
+Data Analyst,Tech,Kuala Lumpur,13,102995,1,1,0,0,1,1,0,1,1,9.2
+Backend Developer,Government,San Francisco,11,69279,1,1,1,0,1,1,1,0,0,8.7
+ML Engineer,Finance,London,13,31282,,,0,1,1,1,0,0,1,7.4
+Cybersecurity Analyst,Government,Singapore,7,50489,0,0,1,0,1,0,1,1,1,4.7
+Backend Developer,Finance,New York,10,86711,1,,1,1,0,1,0,1,1,5.5
+DevOps Engineer,E-commerce,New York,20,,0,0,0,1,1,0,1,1,1,5.5
+Data Scientist,Education,San Francisco,17,37466,1,1,0,1,1,1,0,1,1,4.4
+Cloud Engineer,Finance,Singapore,14,156510,0,0,1,1,1,1,1,1,1,4.0
+ML Engineer,Education,New York,20,58249,1,1,1,1,1,1,1,1,0,4.9
+Product Manager,Tech,Singapore,12,110575,0,1,1,1,1,1,1,1,0,8.3
+Product Manager,Finance,New York,9,104287,0,1,0,1,0,1,1,1,1,4.3
+Data Analyst,Education,New York,-5,160648,1,1,1,0,0,0,1,0,1,8.7
+Cloud Engineer,E-commerce,REMOTE,3,72252,0,1,1,1,1,1,1,1,0,5.7
+Cybersecurity Analyst,Tech,Singapore,18,82440,0,0,1,0,1,1,0,1,1,9.2
+Product Manager,Government,New York,6,109317,1,,0,1,1,1,1,0,0,7.0
+DATA SCIENTIST,Finance,San Francisco,7,159880,0,0,0,1,1,1,0,0,1,3.4
+Cybersecurity Analyst,Tech,Remote,1,116452,0,0,1,0,1,1,0,1,0,4.1
+Data Scientist,Tech,Singapore,2,151990,1,1,1,1,1,1,0,0,1,6.6
+Product Manager,Education,New York,10,90966,0,0,1,0,1,1,1,1,1,5.6
+ML Engineer,Finance,Remote,4,144574,,1,0,1,1,0,0,0,1,5.0
+Backend Developer,E-commerce,London,12,152586,1,1,1,1,1,1,0,1,1,6.9
+Data Scientist,Tech,New York,14,76692,1,1,1,0,1,1,0,1,1,7.2
+Cybersecurity Analyst,Government,Singapore,0,,1,1,1,1,1,1,0,1,0,8.8
+ML Engineer,Tech,Singapore,0,46393,1,1,0,1,1,1,1,1,0,8.7
+Data Analyst,E-commerce,Remote,,43012,1,1,0,1,0,0,0,1,1,3.6
+Data Scientist,E-commerce,KL,1,47234,1,1,0,1,1,1,1,0,1,8.4
+Data Analyst,Healthcare,Kuala Lumpur,18,155106,1,1,1,1,1,1,1,1,1,5.9
+Product Manager,Healthcare,San Francisco,11,87137,0,1,0,0,1,1,1,1,1,9.5
+DevOps Engineer,Government,San Francisco,14,145824,1,0,0,1,1,1,1,0,1,
+Cybersecurity Analyst,Healthcare,New York,16,,0,1,1,0,1,0,0,1,0,8.8
+ML Eng,Education,Singapore,1,110196,,1,0,1,1,1,1,1,1,8.9
+DevOps Engineer,Finance,New York,15,95077,0,0,0,1,1,0,1,0,1,9.2
+Cloud Engineer,Education,Singapore,0,144116,0,,0,1,1,0,0,1,1,7.5
+Data Analyst,Healthcare,Singapore,13,109749,1,1,0,1,0,0,1,1,1,4.6
+Product Manager,Finance,Singapore,12,38295,0,1,1,0,0,1,1,1,1,3.9
+Frontend Developer,Tech,Kuala Lumpur,0,168178,0,1,1,0,0,0,1,1,0,3.8
+DevOps Engineer,Finance,New York,18,113665,1,0,1,1,0,0,1,1,0,8.4
+Product Manager,Tech,San Francisco,0,37178,0,1,1,0,0,1,1,1,0,3.5
+Frontend Developer,Finance,Kuala Lumpur,7,117695,0,1,1,1,1,1,1,0,1,3.2
+Cybersecurity Analyst,Education,New York,14,85244,1,,0,0,1,0,0,1,1,5.9
+Backend Developer,Finance,Remote,-4,81167,1,1,1,1,0,1,1,1,0,5.0
+Product Manager,E-commerce,Kuala Lumpur,10,78691,1,1,0,0,0,1,1,0,0,4.1
+Backend Developer,Government,Remote,11,141876,1,1,1,0,1,1,1,0,1,4.9
+Product Manager,Healthcare,San Francisco,7,,0,1,0,0,1,1,1,0,0,7.8
+Product Manager,Healthcare,Kuala Lumpur,1,95696,0,1,0,1,1,1,1,0,1,
+Backend Developer,Education,Singapore,3,113467,1,1,1,1,1,1,0,0,1,8.4
+Frontend Developer,Healthcare,Singapore,16,37212,0,,1,0,1,0,1,0,0,8.1
+Data Analyst,Government,Kuala Lumpur,6,45800,1,1,1,0,0,0,1,1,1,6.9
+Cloud Engineer,Finance,Remote,11,69350,1,1,1,1,1,0,1,1,0,7.5
+UI/UX Designer,Healthcare,Singapore,,143741,1,0,1,0,1,1,0,1,0,5.6
+Cybersecurity Analyst,Tech,London,0,94363,1,0,0,0,1,0,1,1,0,4.0
+Data Scientist,Education,London,18,50209,,1,1,0,1,0,0,0,1,9.5
+UI/UX Designer,Healthcare,REMOTE,7,53628,0,0,1,0,1,1,1,0,0,4.1
+Data Scientist,Government,NewYork,16,111853,1,1,0,0,1,0,1,0,1,4.1
+ML Engineer,Finance,New York,10,87972,1,1,0,1,1,0,0,1,1,4.8
+Backend Developer,Tech,San Francisco,1,134266,1,1,0,0,0,0,1,0,0,7.5
+DevOps Engineer,Finance,New York,19,154253,1,1,1,1,1,0,0,0,0,6.9
+DevOps Engineer,Finance,San Francisco,20,2621100,1,1,0,1,1,1,1,0,1,
+Cybersecurity Analyst,Government,London,4,43201,0,0,0,0,0,0,1,1,0,9.5
+Data Analyst,Tech,Singapore,2,116827,1,1,0,0,1,1,0,0,1,8.4
+DevOps Engineer,Healthcare,San Francisco,9,140269,,1,1,1,0,1,1,0,1,3.9
+ML Eng,Education,San Francisco,16,31203,1,0,1,1,1,0,1,0,0,
+Backend Developer,Healthcare,Remote,9,136840,1,1,1,1,0,1,1,0,1,5.5
+Data Analyst,Finance,Remote,,136009,1,1,0,1,0,0,1,1,1,5.2
+Backend Developer,Healthcare,new york,6,63907,1,1,0,1,1,0,1,0,1,
+Product Manager,Finance,San Francisco,10,94759,1,1,1,0,0,1,1,0,1,6.1
+UI/UX Designer,Tech,Remote,,166654,0,0,1,0,0,1,0,1,0,4.6
+Frontend Developer,Tech,KL,12,124103,1,1,1,1,1,1,1,0,1,
+ML Engineer,Healthcare,Remote,15,156885,1,,0,1,1,1,0,0,1,3.8
+ML Engineer,Tech,London,17,107003,1,0,0,1,1,0,0,0,1,7.9
+Data Scientist,E-commerce,New York,15,123881,1,1,1,1,1,0,1,1,1,6.5
+UI/UX Designer,Finance,New York,16,119477,1,0,1,1,0,1,1,1,0,4.6
+Product Manager,E-commerce,New York,5,120765,1,1,0,0,0,1,1,1,1,5.1
+ML Engineer,Government,REMOTE,5,56916,1,1,1,1,1,1,0,0,1,8.4
+Frontend Developer,Healthcare,Kuala Lumpur,20,175286,1,0,1,0,0,1,1,0,1,7.7
+Frontend Developer,Healthcare,London,3,2590180,,0,1,1,1,0,0,1,1,9.3
+Frontend Developer,Government,Remote,15,134411,0,1,1,0,0,1,0,1,1,5.1
+Cybersecurity Analyst,Healthcare,Remote,12,150095,1,1,1,0,1,1,1,1,1,3.4
+Data Scientist,Education,London,19,144219,1,1,1,1,1,1,1,1,1,5.2
+ML Engineer,Education,Singapore,5,42192,1,0,0,1,1,0,1,1,0,9.0
+Cloud Engineer,Government,New York,7,111334,0,,0,1,1,0,1,0,1,7.2
+Frontend Developer,Education,Remote,,134590,0,1,1,1,0,0,0,1,1,8.7
+UI/UX Designer,Healthcare,San Francisco,5,176277,0,1,1,1,1,1,0,0,0,7.1
+Product Manager,Tech,KL,9,101218,1,0,1,1,1,1,1,0,1,9.5
+Backend Developer,Government,London,9,140721,1,1,0,0,1,0,1,0,0,5.7
+Data Analyst,E-commerce,Kuala Lumpur,7,86278,1,,0,0,1,0,1,0,1,3.5
+Backend Developer,Healthcare,London,16,81693,1,1,1,0,1,0,0,0,0,
+ML Engineer,Education,Remote,1,,1,0,0,1,1,0,1,1,0,4.6
+Product Manager,Healthcare,San Francisco,16,174872,0,0,0,1,0,1,1,1,0,5.1
+ML Engineer,Finance,Remote,5,71709,1,1,0,1,1,0,0,0,0,
+Frontend Developer,Finance,Remote,4,44068,1,0,1,0,0,0,0,0,0,
+Backend Developer,Tech,new york,2,91195,1,1,0,1,0,1,1,1,0,9.4
+Backend Developer,Education,Kuala Lumpur,15,46125,1,1,0,0,1,0,0,1,1,6.1
+Backend Developer,Government,Singapore,10,133752,1,1,1,1,1,0,1,1,0,4.4
+Product Manager,Healthcare,Kuala Lumpur,16,159098,,0,1,0,1,1,1,0,1,
+Data Scientist,E-commerce,Remote,16,76031,1,1,0,1,1,0,0,0,1,10.0
+Backend Developer,Tech,New York,14,49186,1,1,0,0,1,0,1,0,1,8.3
+Backend Developer,Tech,Singapore,2,171781,1,,0,0,0,1,1,1,1,6.0
+Data Scientist,Education,Singapore,12,37767,1,1,1,0,1,1,1,0,1,4.5
+Data Analyst,Government,San Francisco,12,152869,1,1,1,1,0,0,1,0,1,8.0
+DevOps Engineer,Education,Singapore,16,168796,0,1,1,1,0,1,0,0,0,7.0
+Cloud Engineer,Healthcare,Remote,1,176187,1,0,1,1,1,1,0,1,0,5.9
+Frontend Developer,Finance,San Francisco,,45306,1,1,1,0,1,0,1,0,1,8.1
+DevOps Engineer,Tech,New York,13,41913,0,1,1,1,1,0,1,1,0,9.0
+devops engineer,Healthcare,New York,9,129936,0,1,0,0,1,0,1,1,0,8.5
+DevOps Engineer,Healthcare,New York,10,112089,0,1,1,1,1,1,0,1,1,8.9
+Backend Developer,E-commerce,London,6,163936,1,1,0,0,1,1,0,0,0,3.5
+Backend Developer,Finance,New York,19,87209,,1,0,0,1,0,0,0,0,5.5
+Product Manager,Healthcare,San Francisco,17,105898,0,1,1,1,1,1,1,1,1,7.4
+DevOps Engineer,Healthcare,San Francisco,18,46844,0,1,0,1,0,0,1,1,0,6.1
+Frontend Developer,Government,Singapore,12,129657,1,0,1,0,1,0,1,1,1,9.5
+Cloud Engineer,Finance,Kuala Lumpur,0,153288,1,1,0,1,0,1,1,0,1,6.6
+ML Engineer,Tech,London,15,77084,1,0,0,1,1,0,1,0,1,7.5
+Cybersecurity Analyst,Government,London,19,165848,0,0,0,0,0,1,1,1,1,8.9
+ML Engineer,Finance,Singapore,12,105990,1,1,0,1,1,0,0,0,0,8.1
+DevOps Engineer,Tech,Remote,10,141617,1,0,1,1,1,0,0,1,1,4.1
+DevOps Engineer,E-commerce,London,,140033,1,0,1,1,1,0,1,0,1,5.5
+Data Scientist,Finance,London,,78366,1,1,0,0,1,1,0,0,1,4.6
+UI/UX Designer,Healthcare,San Francisco,14,104756,1,1,1,0,1,1,0,1,1,6.9
+Data Scientist,E-commerce,New York,17,167636,1,1,0,1,1,1,0,0,1,4.5
+Product Manager,Government,NewYork,7,81342,0,0,1,0,0,1,1,0,1,6.8
+ML Engineer,E-commerce,Remote,1,172022,1,1,1,1,1,1,1,0,1,8.9
+Frontend Developer,Tech,Kuala Lumpur,5,47169,0,1,1,0,0,0,1,0,0,8.0
+Frontend Developer,Education,Remote,12,177341,0,0,1,0,1,0,1,0,0,8.4
+Product Manager,Healthcare,London,3,59130,0,1,0,0,0,1,1,0,0,6.0
+DevOps Engineer,E-commerce,London,9,168802,1,0,1,1,1,1,0,0,0,9.0
+Product Manager,Education,Singapore,1,97549,1,0,1,1,1,1,1,1,0,7.1
+Data Analyst,Finance,Kuala Lumpur,9,156647,1,1,1,1,0,0,1,1,1,9.8
+Backend Developer,E-commerce,Kuala Lumpur,,99969,1,1,0,1,0,1,1,0,0,6.9
+Backend Developer,Education,Kuala Lumpur,3,38432,1,1,1,0,0,1,1,1,0,3.8
+Cybersecurity Analyst,Government,Kuala Lumpur,17,58397,1,1,1,0,0,0,0,1,1,6.7
+Data Analyst,Government,London,7,106051,1,1,0,0,0,0,0,0,1,3.9
+Data Scientist,Healthcare,Remote,4,165494,1,1,0,1,1,0,1,1,1,4.6
+Data Analyst,Tech,London,2,139457,1,1,1,0,0,1,0,0,1,6.2
+Cloud Engineer,Education,Remote,,101906,1,0,1,1,0,1,1,0,1,8.2
+Cloud Engineer,Government,San Francisco,17,133553,0,1,1,1,1,0,0,0,1,8.5
+Cybersecurity Analyst,E-commerce,London,19,124025,1,0,1,1,1,1,1,1,0,3.2
+ML Engineer,Healthcare,New York,20,65317,1,1,0,1,1,0,1,1,1,7.9
+UI/UX Designer,Education,Remote,,135458,0,0,1,0,0,1,0,1,1,7.9
+DevOps Engineer,Government,London,5,147519,1,1,0,1,0,0,1,0,0,4.7
+Product Manager,Finance,San Francisco,-5,53608,0,0,0,1,0,1,1,1,0,9.8
+Cybersecurity Analyst,E-commerce,Remote,11,116831,1,1,1,0,0,0,0,1,0,4.6
+Product Manager,Healthcare,San Francisco,9,115894,0,0,0,0,1,1,1,1,0,5.9
+devops engineer,Finance,Singapore,6,44275,0,1,0,1,0,0,1,1,1,5.0
+Frontend Developer,E-commerce,Singapore,,,,0,1,1,1,0,0,0,0,6.4
+Backend Developer,E-commerce,Kuala Lumpur,18,78012,1,1,0,0,1,0,1,1,0,6.8
+Devops,E-commerce,Singapore,7,117283,1,0,0,1,1,0,0,0,0,5.1
+ML Engineer,Education,REMOTE,12,154659,1,0,0,1,1,0,1,1,0,8.0
+Data Analyst,Finance,Singapore,11,114747,1,1,1,1,1,0,1,0,1,7.4
+Frontend Developer,E-commerce,Remote,0,38121,0,0,1,1,0,0,0,0,1,6.2
+Frontend Developer,Education,Remote,19,,0,0,1,1,1,0,0,1,0,5.3
+Data Scientist,Healthcare,Kuala Lumpur,10,132107,1,1,0,1,1,1,0,0,1,8.9
+Data Scientist,Education,KL,,32693,1,1,1,1,1,0,0,1,1,5.3
+data scientist,Government,Kuala Lumpur,,74207,0,0,1,1,1,0,1,1,1,9.4
+Backend Developer,Finance,New York,,,1,,0,0,0,0,0,1,1,9.9
+Cloud Engineer,Education,London,13,94810,1,1,0,1,0,1,1,0,1,7.8
+Cloud Engineer,E-commerce,Kuala Lumpur,17,59794,0,0,1,1,0,0,1,1,0,6.5
+DevOps Engineer,Healthcare,Singapore,20,117850,,1,1,1,1,0,0,0,1,4.8
+Product Manager,Education,San Francisco,19,,,1,0,0,1,1,1,0,0,7.2
+Cloud Engineer,Healthcare,Remote,16,170573,0,1,0,1,0,0,0,0,1,
+Data Analyst,E-commerce,London,15,110157,1,1,1,1,0,1,1,0,1,3.0
+ML Engineer,Government,Remote,5,71513,1,1,0,1,1,1,1,1,1,8.8
+Data Analyst,Healthcare,New York,4,,,1,0,0,0,1,1,1,1,5.2
+DevOps Engineer,Education,London,16,46131,1,1,0,1,1,0,1,0,0,4.9
+Frontend Developer,Healthcare,Kuala Lumpur,9,88942,1,1,1,0,1,1,1,0,1,6.8
+Frontend Developer,Government,Singapore,4,133255,1,0,1,1,0,0,1,0,1,4.9
+Cybersecurity Analyst,Finance,London,10,97861,1,1,0,0,0,0,1,1,0,3.3
+UI/UX Designer,E-commerce,KL,,139702,0,0,1,1,1,1,1,0,1,4.6
+DevOps Engineer,Tech,San Francisco,12,146139,0,1,0,1,0,1,0,1,1,9.1
+Product Manager,Tech,New York,,144404,1,0,1,1,1,1,1,0,0,8.9
+Backend Developer,E-commerce,Remote,19,124913,1,1,1,1,0,1,1,1,0,9.9
+Product Manager,Healthcare,Singapore,3,95379,0,0,0,0,1,1,1,0,0,8.0
+Cybersecurity Analyst,Healthcare,Kuala Lumpur,14,85622,1,1,1,1,1,1,0,1,0,9.9
+Cybersecurity Analyst,Government,New York,7,108258,1,0,1,1,1,1,0,1,0,5.6
+Data Analyst,Tech,San Francisco,3,99765,1,1,0,1,1,0,0,0,1,8.6
+Cybersecurity Analyst,Education,New York,19,163593,,1,1,0,0,1,0,1,0,9.8
+Data Scientist,Tech,Remote,0,137442,1,1,0,0,1,0,1,1,1,4.6
+Data Analyst,Finance,New York,7,121075,1,1,0,0,1,0,0,0,1,3.6
+ML Engineer,Government,San Francisco,1,56322,1,0,0,1,1,1,1,1,1,3.2
+Frontend Developer,E-commerce,Kuala Lumpur,12,55347,1,1,1,0,0,1,0,1,0,7.6
+ML Engineer,Tech,Remote,13,42160,1,0,1,1,1,1,1,0,1,4.3
+Frontend Developer,Healthcare,San Francisco,7,172474,1,1,1,0,0,1,1,1,0,8.6
+Cloud Engineer,Education,San Francisco,8,73332,0,1,1,1,0,0,0,1,1,6.6
+Data Scientist,Tech,San Francisco,1,124354,1,1,1,0,1,0,1,1,1,9.7
+Product Manager,Tech,New York,13,91063,1,0,0,1,0,1,1,1,0,3.9
+Backend Developer,Education,Remote,18,164944,1,1,0,1,1,1,1,0,0,8.5
+Cloud Engineer,Education,New York,13,150236,0,1,1,1,0,1,1,0,0,4.1
+DATA SCIENTIST,Healthcare,Singapore,17,33160,1,1,1,0,1,1,1,1,1,5.8
+Cybersecurity Analyst,Education,Remote,10,153021,0,1,0,1,1,1,1,1,1,9.7
+DevOps Engineer,E-commerce,New York,20,70545,,1,1,1,0,0,0,1,1,6.0
+ML Engineer,Tech,Kuala Lumpur,11,,1,1,0,1,1,1,1,0,1,6.7
+Product Manager,Government,New York,14,41646,1,0,1,0,1,1,1,0,1,7.9
+Data Analyst,Tech,Singapore,13,153294,1,1,0,1,0,1,0,0,1,10.0
+Frontend Developer,Government,Singapore,,124229,,1,1,1,0,1,0,0,1,4.0
+Data Analyst,Finance,Remote,10,,1,1,1,1,0,0,0,1,1,6.6
+Cybersecurity Analyst,E-commerce,Singapore,20,137896,0,1,0,0,0,0,0,1,0,4.7
+DevOps Engineer,Tech,Kuala Lumpur,2,123667,,1,1,1,0,1,0,0,0,4.0
+Backend Developer,E-commerce,Remote,20,32105,1,1,0,1,0,0,1,1,0,9.0
+Product Manager,Healthcare,San Francisco,12,49791,1,1,0,1,0,1,1,0,1,
+devops engineer,Government,San Francisco,1,50082,0,1,1,1,1,1,1,0,1,8.9
+Frontend Developer,Tech,Kuala Lumpur,14,67590,0,0,1,1,0,0,1,0,1,6.4
+ML Engineer,Finance,London,8,160142,1,1,0,1,1,1,0,0,1,3.1
+Data Scientist,Government,Kuala Lumpur,6,56038,,1,1,0,1,0,1,0,1,5.1
+Backend Developer,E-commerce,New York,,86510,1,1,0,0,1,0,1,0,1,8.2
+Data Analyst,Finance,Kuala Lumpur,14,32528,1,1,1,1,0,0,1,0,1,5.0
+DevOps Engineer,E-commerce,New York,20,70545,,1,1,1,0,0,0,1,1,6.0
+Cybersecurity Analyst,E-commerce,New York,12,126971,0,1,0,1,0,0,1,1,1,5.9
+Cybersecurity Analyst,Finance,London,12,35633,1,0,1,0,0,1,1,1,0,9.2
+ML Eng,Tech,San Francisco,15,111289,1,1,0,0,0,1,0,1,0,6.7
+Product Manager,Healthcare,San Francisco,19,46347,0,0,0,1,1,1,1,0,0,
+ML Engineer,Tech,London,1,70481,1,1,1,1,1,0,1,1,1,8.4
+ML Engineer,Tech,London,7,86397,1,1,0,1,1,1,1,1,1,7.0
+Cybersecurity Analyst,Government,Singapore,,,1,0,1,1,0,1,0,1,1,5.3
+Cybersecurity Analyst,Government,London,2,66934,0,1,1,0,1,0,1,1,0,3.3
+ML Engineer,Education,London,0,100872,1,0,0,1,1,1,1,0,1,
+Data Analyst,Education,Remote,6,115760,1,1,0,1,0,0,1,1,1,5.3
+Backend Developer,Government,New York,7,106471,1,1,0,0,1,1,0,0,0,
+DevOps Engineer,Education,Kuala Lumpur,11,129264,0,0,1,1,0,0,0,1,1,6.9
+Product Manager,E-commerce,London,11,56190,1,0,1,0,1,1,1,0,1,5.8
+Data Analyst,Healthcare,London,19,30069,1,1,1,0,1,0,1,1,1,3.1
+DevOps Engineer,E-commerce,San Francisco,12,111366,1,1,0,1,1,0,0,1,1,4.0
+DevOps Engineer,Healthcare,Remote,4,,1,1,0,1,0,0,0,0,1,
+Data Analyst,Education,San Francisco,-4,60215,1,1,0,0,1,1,1,1,1,8.2
+UI/UX Designer,Education,New York,14,,1,0,1,1,0,1,1,1,1,4.3
+Product Manager,Government,New York,12,140721,1,1,1,0,0,1,1,0,0,9.4
+Data Analyst,E-commerce,Singapore,2,141635,1,1,1,0,1,1,0,0,1,7.0
+Cloud Engineer,Healthcare,NewYork,15,84039,1,1,1,1,1,1,1,1,1,3.8
+Product Manager,Tech,London,19,30176,0,1,0,1,1,1,1,1,1,3.4
+Frontend Developer,Government,San Francisco,8,85358,0,0,1,1,1,0,1,1,0,7.8
+Data Scientist,E-commerce,Remote,0,66198,1,1,1,1,1,1,1,0,1,9.4
+Backend Developer,Healthcare,New York,13,82416,1,,1,0,1,0,0,1,1,3.7
+Backend Developer,Government,San Francisco,12,84039,1,1,1,1,0,0,0,1,0,5.2
+DevOps Engineer,Tech,Remote,8,161331,1,0,1,1,0,1,0,1,1,6.0
+Product Manager,Tech,London,7,105219,1,1,0,0,1,1,1,1,1,9.2
+Data Analyst,Government,Singapore,4,,,1,1,0,0,0,0,0,1,7.5
+DevOps Engineer,Finance,London,15,155167,0,1,0,1,0,0,0,0,0,7.5
+DevOps Engineer,Finance,San Francisco,4,158884,1,0,0,1,1,1,0,0,1,8.4
+Data Scientist,Education,San Francisco,1,137866,1,1,0,0,1,0,1,0,1,8.9
+Cybersecurity Analyst,Finance,London,9,155236,1,1,0,1,1,1,0,1,1,8.4
+Data Scientist,Education,San Francisco,0,113058,1,1,1,0,1,0,1,1,1,5.5
+DevOps Engineer,Government,REMOTE,10,122938,0,0,0,1,0,0,1,0,0,9.6
+Data Scientist,E-commerce,London,1,141998,1,1,1,1,1,0,1,0,1,7.5
+UI/UX Designer,Education,London,20,71068,0,0,1,1,0,1,1,0,1,4.9
+Backend Developer,Tech,San Francisco,18,172467,1,1,0,1,1,0,0,0,0,4.9
+Cybersecurity Analyst,Healthcare,Remote,19,61039,,1,0,1,1,1,1,1,1,6.1
+Data Scientist,Tech,Remote,12,51201,1,1,1,1,1,1,0,0,1,9.1
+Backend Developer,Finance,San Francisco,14,32517,1,1,1,0,1,1,0,0,0,5.8
+Data Scientist,E-commerce,REMOTE,2,32012,1,1,1,0,1,1,1,0,1,4.2
+ML Engineer,Finance,San Francisco,10,168388,1,1,0,1,1,0,0,0,0,3.1
+Cloud Engineer,E-commerce,Singapore,0,46065,1,1,0,1,1,1,0,0,1,4.0
+Backend Developer,Government,London,14,111824,1,1,1,0,0,0,0,1,1,3.4
+Data Analyst,Tech,London,11,93993,1,1,0,0,1,1,1,0,1,9.6
+ML Engineer,Tech,New York,3,69798,1,0,0,1,1,0,0,1,0,4.8
+Cloud Engineer,Education,KL,10,47464,,1,0,1,1,0,1,1,1,3.0
+DevOps Engineer,E-commerce,Singapore,10,78051,0,0,1,1,0,1,1,1,0,4.1
+ML Engineer,Government,London,2,137337,1,1,0,1,1,1,1,0,0,7.4
+Product Manager,Government,Remote,7,172017,1,0,1,1,1,1,1,0,0,9.1
+Product Manager,E-commerce,Remote,1,97957,1,0,1,0,0,1,1,0,0,9.2
+Data Analyst,Education,New York,12,121798,1,1,0,1,0,1,1,0,1,4.5
+Product Manager,Finance,Singapore,16,73614,,0,1,0,1,1,1,1,1,6.2
+Data Analyst,Finance,Remote,2,177546,1,1,1,0,0,0,1,1,1,8.1
+Frontend Developer,Government,Remote,18,88281,1,1,1,1,1,1,0,0,0,8.0
+Cloud Engineer,E-commerce,Kuala Lumpur,0,167460,1,1,1,1,0,0,1,1,1,8.3
+Data Analyst,Tech,London,9,36220,1,1,1,1,1,1,1,0,1,9.1
+Frontend Developer,E-commerce,Kuala Lumpur,7,111341,1,1,1,1,0,0,0,0,0,8.0
+Data Scientist,E-commerce,London,11,160620,1,1,1,1,1,1,0,0,1,3.8
+ML Engineer,Healthcare,London,9,89954,1,0,0,1,1,1,0,1,1,6.8
+ML Engineer,Education,Singapore,8,768020,1,1,1,1,1,0,1,1,0,10.0
+Backend Developer,Tech,Kuala Lumpur,10,118137,1,1,1,1,0,0,1,0,0,3.7
+Frontend Developer,Tech,London,3,127853,0,0,1,1,1,1,0,1,0,7.9
+Cybersecurity Analyst,Education,London,14,144984,1,1,1,1,0,1,0,1,0,8.3
+Backend Developer,Government,New York,17,142412,1,1,0,1,0,0,1,0,0,9.2
+Frontend Developer,Government,London,-1,97413,1,1,1,1,1,1,1,1,1,8.4
+DevOps Engineer,E-commerce,London,,35000,0,1,1,1,1,0,1,0,1,8.9
+Data Scientist,Government,London,13,128020,1,1,0,0,1,0,1,0,1,8.9
+Data Analyst,Government,New York,15,65432,1,1,1,1,1,1,1,1,1,5.2
+Cybersecurity Analyst,E-commerce,Kuala Lumpur,12,144843,1,0,0,1,0,1,1,1,1,5.8
+ML Engineer,E-commerce,London,,,1,1,0,1,1,0,1,1,1,
+Frontend Developer,Healthcare,London,16,,1,1,1,0,1,0,0,0,1,4.0
+Cybersecurity Analyst,E-commerce,London,11,157996,1,0,0,1,0,0,0,1,1,5.2
+Frontend Developer,Tech,San Francisco,10,84334,1,0,1,0,1,1,0,1,0,3.5
+DevOps Engineer,Education,Remote,20,73841,,0,1,1,0,1,0,1,0,3.0
+Backend Developer,Government,New York,4,43809,1,1,1,1,1,1,0,0,0,5.4
+ML Engineer,E-commerce,Singapore,7,79710,1,1,1,1,1,0,1,0,1,3.6
+ML Engineer,E-commerce,London,8,169101,1,0,1,1,1,0,1,1,0,5.9
+ML Engineer,Government,Remote,20,172210,1,1,1,1,1,1,0,1,1,9.5
+Product Manager,Healthcare,London,3,175899,1,0,1,0,1,1,1,0,0,3.6
+UI/UX Designer,Government,NewYork,7,33502,1,1,1,0,1,1,1,1,1,9.8
+Frontend Developer,Education,Singapore,,,1,0,1,1,1,0,1,0,0,5.3
+Cybersecurity Analyst,Tech,KL,9,119321,1,0,1,1,1,0,1,1,0,9.2
+ML Engineer,Tech,Remote,16,141561,1,0,0,1,1,1,1,0,0,7.6
+ML Engineer,E-commerce,Remote,0,77012,1,1,0,1,1,0,0,1,1,4.8
+Data Scientist,Tech,Remote,18,168861,1,1,1,1,1,1,0,1,1,7.5
+Data Scientist,Finance,London,16,105898,1,1,1,0,1,1,1,1,1,9.8
+Cloud Engineer,E-commerce,London,5,66488,1,1,1,1,0,0,0,1,0,9.3
+Cloud Engineer,E-commerce,London,14,87639,1,0,0,1,1,1,0,1,1,
+Data Scientist,Finance,Kuala Lumpur,19,148157,1,1,1,0,1,1,0,0,1,3.1
+UI/UX Designer,Healthcare,Remote,5,55305,1,0,1,0,0,1,0,1,1,3.7
+Frontend Developer,Tech,London,,89370,0,0,1,0,1,1,1,0,1,6.8
+Data Analyst,Healthcare,Remote,6,91837,1,1,0,0,1,0,1,0,1,7.3
+UI/UX Designer,Finance,New York,18,124954,0,1,1,1,0,1,1,0,1,6.7
+devops engineer,Healthcare,Singapore,11,66162,1,0,1,0,0,1,1,1,0,8.2
+Backend Developer,Finance,New York,4,43697,1,1,0,1,1,1,1,1,0,5.1
+Frontend Developer,E-commerce,New York,14,167492,0,0,1,0,1,1,0,1,0,9.2
+UI/UX Designer,E-commerce,Remote,1,117648,0,0,1,1,1,1,0,1,1,7.1
+Backend Developer,E-commerce,Singapore,10,109625,1,1,0,0,0,0,0,0,0,5.5
+Product Manager,Tech,London,,135538,0,1,1,1,0,1,1,0,0,8.9
+Frontend Developer,Tech,New York,0,67150,1,0,1,0,0,1,0,0,1,5.1
+Cloud Engineer,Government,Kuala Lumpur,11,51144,0,1,0,1,0,1,1,1,1,6.3
+Data Analyst,Government,REMOTE,20,91768,1,1,1,1,0,1,0,0,1,7.1
+ML Engineer,Finance,San Francisco,15,,1,0,1,1,1,0,1,1,1,9.9
+UI/UX Designer,Government,San Francisco,5,,0,0,1,0,1,1,1,1,1,6.9
+UI/UX Designer,Government,New York,12,753340,1,0,1,0,1,1,1,1,0,5.1
+Data Analyst,Finance,New York,4,56714,1,1,1,1,0,0,1,0,1,8.4
+Backend Developer,Tech,Remote,1,105052,1,1,1,1,1,1,0,0,0,9.3
+Data Scientist,Government,London,11,129306,1,,1,1,1,1,0,1,1,9.6
+Devops,Finance,Singapore,12,131207,0,1,0,1,0,1,1,0,1,4.2
+Backend Developer,E-commerce,San Francisco,19,146706,1,1,1,1,1,1,1,0,0,6.6
+Product Manager,Healthcare,Remote,20,126757,1,0,0,1,1,1,1,1,1,3.6
+ML Engineer,Government,Remote,,,,0,1,1,1,0,1,1,0,6.6
+Data Analyst,Tech,Kuala Lumpur,1,139330,1,1,0,0,0,0,0,1,1,3.1
+DevOps Engineer,Tech,Remote,16,173057,0,1,1,1,1,1,0,0,0,6.2
+Data Scientist,Education,Remote,4,51904,1,1,0,1,1,1,1,0,1,3.3
+Cloud Engineer,Tech,Remote,18,109336,0,,1,1,1,1,0,0,0,4.0
+Backend Developer,Finance,Remote,2,149298,,1,0,0,0,1,0,1,1,7.4
+Frontend Developer,Government,Singapore,14,168673,0,0,1,1,0,1,0,0,0,5.5
+DevOps Engineer,Government,Remote,20,141366,1,0,0,1,1,1,1,1,0,8.1
+Cybersecurity Analyst,E-commerce,Singapore,20,88105,0,0,0,1,1,0,0,1,0,8.2
+UI/UX Designer,Finance,REMOTE,20,38217,1,1,1,1,1,1,0,1,0,8.9
+Cybersecurity Analyst,Tech,London,2,45954,0,0,1,1,1,1,0,1,1,7.6
+Frontend Developer,Tech,Kuala Lumpur,20,38826,0,,1,1,1,1,1,0,0,8.6
+Frontend Developer,Education,Kuala Lumpur,12,175846,1,1,1,1,0,0,1,0,1,8.4
+Cybersecurity Analyst,Government,Singapore,5,,0,0,0,1,1,0,1,1,1,3.3
+UI/UX Designer,Healthcare,Singapore,17,59877,0,0,1,0,1,1,1,1,0,9.2
+Cybersecurity Analyst,E-commerce,Singapore,3,,1,1,0,1,1,1,1,1,0,8.8
+UI/UX Designer,Healthcare,new york,12,160702,0,0,1,1,1,1,1,1,0,
+Cybersecurity Analyst,E-commerce,New York,5,163789,0,1,1,1,0,1,1,1,0,3.5
+Data Scientist,Finance,Remote,0,50519,1,1,0,0,1,0,0,0,1,7.5
+DevOps Engineer,Education,NewYork,9,36724,1,0,1,1,0,1,1,0,1,8.3
+Cloud Engineer,Government,new york,0,156275,1,1,1,1,0,0,0,1,1,4.9
+Data Scientist,Tech,Kuala Lumpur,17,,1,,0,0,1,0,0,0,1,4.2
+Cybersecurity Analyst,Tech,New York,,,0,0,1,1,0,0,0,1,0,7.2
+Frontend Developer,Education,London,2,141045,1,1,1,1,0,1,1,1,1,3.8
+UI/UX Designer,E-commerce,Singapore,2,71174,0,1,1,1,1,1,0,1,0,
+Data Analyst,E-commerce,Kuala Lumpur,7,55223,1,1,1,1,1,0,1,0,1,9.1
+Data Scientist,Education,Kuala Lumpur,4,140697,1,1,0,0,1,0,0,0,1,7.1
+UI/UX Designer,Tech,San Francisco,6,68310,1,0,1,1,0,1,1,1,0,5.5
+Data Analyst,Education,San Francisco,14,136846,1,1,0,1,0,0,0,0,1,6.7
+UI/UX Designer,Healthcare,San Francisco,17,93019,1,0,1,0,1,1,1,0,1,7.1
+UI/UX Designer,Education,San Francisco,0,68811,,1,1,1,0,1,0,1,0,4.0
+Data Analyst,Government,New York,,100813,1,1,1,0,1,1,0,1,1,4.6
+DevOps Engineer,Tech,New York,12,122423,,1,0,1,1,1,0,0,0,8.0
+Data Analyst,Education,Remote,20,85824,1,1,1,1,1,0,1,1,1,9.3
+Frontend Developer,Education,London,9,65222,1,1,1,0,1,1,1,1,0,6.9
+Backend Developer,Finance,New York,9,59541,1,1,0,0,1,0,0,0,0,4.7
+UI/UX Designer,Tech,London,19,160097,0,1,1,1,1,1,0,0,1,4.6
+Product Manager,Healthcare,Remote,,85738,0,1,1,1,1,1,1,0,1,3.8
+Data Analyst,Healthcare,London,1,32738,1,1,0,1,0,0,1,0,1,8.6
+Product Manager,Healthcare,NewYork,16,118074,0,1,0,1,1,1,1,1,1,
+Backend Developer,Education,Singapore,4,44476,1,1,0,0,0,0,0,1,0,5.8
+Frontend Developer,Education,London,9,86316,1,1,1,0,0,1,1,1,0,5.7
+Backend Developer,Finance,Remote,2,98175,1,1,1,1,1,1,1,0,0,6.7
+DevOps Engineer,Finance,Kuala Lumpur,12,55560,,0,1,1,0,1,0,0,0,3.6
+UI/UX Designer,Government,NewYork,7,33502,1,1,1,0,1,1,1,1,1,9.8
+Cloud Engineer,Healthcare,New York,14,52103,0,1,0,1,1,0,0,1,1,4.0
+Data Analyst,Finance,Kuala Lumpur,6,31326,1,1,0,1,1,1,1,1,1,5.6
+Backend Developer,Healthcare,London,12,59922,1,1,1,1,0,0,1,0,0,3.3
+Cybersecurity Analyst,Finance,New York,13,149534,0,1,0,1,0,1,1,1,1,3.5
+data scientist,Government,Remote,19,82370,0,1,1,1,0,1,1,1,0,6.4
+Backend Developer,E-commerce,Kuala Lumpur,1,101068,1,1,0,0,1,1,1,1,0,4.4
+Product Manager,Government,Remote,15,75321,1,1,0,1,0,1,1,0,1,
+Product Manager,Healthcare,San Francisco,-4,128170,0,1,1,1,1,1,1,0,1,9.1
+Frontend Developer,Government,Remote,1,,1,1,1,0,1,0,0,1,1,4.7
+ML Eng,Government,Remote,5,42361,1,1,1,0,0,1,0,0,0,5.0
+ML Engineer,Tech,New York,3,148863,1,1,0,1,1,1,1,0,1,6.1
+Data Scientist,Finance,New York,2,93515,1,1,0,1,1,0,1,0,1,4.3
+Data Analyst,Education,Remote,12,83099,,1,0,1,0,0,1,0,1,7.6
+Cloud Engineer,Government,Singapore,13,114994,0,1,1,1,0,1,1,0,0,6.9
+Data Analyst,E-commerce,New York,7,,1,1,0,0,1,1,0,0,1,7.0
+Frontend Developer,E-commerce,New York,12,110136,0,0,1,0,0,0,1,0,0,6.4
+Cloud Engineer,Healthcare,New York,14,52103,0,1,0,1,1,0,0,1,1,4.0
+Devops,Healthcare,Remote,4,1629060,0,,1,0,0,1,1,1,1,9.9
+Cloud Engineer,Education,San Francisco,12,143230,0,0,1,1,1,1,1,0,0,6.1
+Frontend Developer,Healthcare,Remote,-2,132164,1,1,1,1,0,0,0,1,0,7.8
+Product Manager,Education,New York,6,109630,0,1,1,1,0,1,1,1,1,9.4
+Cybersecurity Analyst,Education,Kuala Lumpur,6,128520,0,1,0,0,1,0,1,1,1,4.9
+Data Analyst,Education,KL,14,103419,1,1,1,0,0,1,0,1,1,9.4
+Data Scientist,Finance,London,16,82472,1,1,1,0,1,1,1,1,1,3.8
+Backend Developer,Tech,San Francisco,,59057,1,1,1,0,0,1,1,1,1,8.4
+DevOps Engineer,E-commerce,Singapore,3,102724,0,0,1,1,0,1,1,1,1,
+Cloud Engineer,Healthcare,San Francisco,0,130669,0,,1,1,1,0,0,0,1,8.0
+Cloud Engineer,Healthcare,San Francisco,,100607,1,0,1,1,1,0,1,1,0,8.5
+ML Engineer,E-commerce,San Francisco,20,114443,1,0,0,1,1,0,0,0,0,7.3
+Cybersecurity Analyst,Finance,San Francisco,8,110446,0,1,0,0,1,1,0,1,0,6.6
+UI/UX Designer,Government,San Francisco,15,144550,1,1,1,0,1,1,0,1,1,8.8
+Cybersecurity Analyst,Education,Kuala Lumpur,1,63416,1,1,0,1,1,1,0,1,1,4.6
+Cloud Engineer,Tech,New York,20,111574,0,0,0,1,1,1,1,0,1,6.0
+ML Engineer,E-commerce,London,4,113084,1,0,1,1,1,0,0,1,0,5.2
+Backend Developer,Tech,New York,2,154488,1,1,1,0,1,1,0,0,0,7.6
+UI/UX Designer,E-commerce,Remote,6,56345,0,1,1,1,0,1,1,0,1,5.3
+Data Analyst,E-commerce,London,9,71229,1,,1,1,0,1,1,0,1,
+Data Scientist,E-commerce,Kuala Lumpur,2,79346,1,1,0,1,1,0,0,0,1,9.0
+Cloud Engineer,E-commerce,Kuala Lumpur,14,149675,0,0,0,1,0,1,1,1,0,
+Data Analyst,Healthcare,London,11,119388,1,1,0,1,1,0,0,0,1,7.6
+Cloud Engineer,Government,San Francisco,1,171867,1,1,0,1,0,1,1,0,0,9.3
+Frontend Developer,Healthcare,New York,4,83766,1,,1,0,1,0,1,0,0,
+Data Scientist,Tech,Remote,17,164318,1,1,1,1,1,1,0,1,1,4.7
+DevOps Engineer,Tech,London,11,100848,1,1,1,1,0,0,1,1,1,9.8
+ML Engineer,Finance,Singapore,6,81358,1,1,1,1,1,0,1,0,1,6.6
+Frontend Developer,Healthcare,Remote,0,120767,0,1,1,1,0,1,1,0,1,9.5
+Product Manager,Healthcare,Kuala Lumpur,8,,0,0,1,1,1,1,1,0,0,7.0
+Cybersecurity Analyst,Tech,Singapore,13,,0,1,0,0,0,1,0,1,1,8.1
+Product Manager,Finance,San Francisco,10,107127,0,1,1,1,0,1,1,1,0,3.4
+UI/UX Designer,E-commerce,Singapore,14,31708,1,0,1,0,0,1,1,0,0,
+Data Analyst,Tech,Kuala Lumpur,2,164227,1,1,0,0,0,0,1,0,1,4.4
+Cloud Engineer,Tech,Kuala Lumpur,5,122092,,0,1,1,0,0,0,0,1,9.5
+Product Manager,Healthcare,Remote,12,,0,0,1,1,1,1,1,1,0,6.4
+Data Analyst,Finance,San Francisco,19,178078,1,1,1,0,0,0,1,1,1,4.6
+Frontend Developer,Education,Kuala Lumpur,15,77688,1,0,1,0,0,0,1,1,1,3.7
+Cybersecurity Analyst,Healthcare,San Francisco,10,156906,1,1,0,0,0,1,1,1,1,4.4
+Cloud Engineer,Education,London,0,101066,0,1,1,1,1,0,0,1,1,4.4
+devops engineer,Government,London,1,50540,1,0,0,1,0,1,1,0,1,
+Data Analyst,Education,Singapore,20,55974,1,1,0,1,0,1,1,0,1,4.9
+Frontend Developer,E-commerce,London,5,100288,1,0,1,0,0,1,0,1,0,3.9
+Product Manager,Education,Kuala Lumpur,8,31389,,0,1,1,1,1,1,1,1,4.3
+ML Engineer,Tech,London,0,92553,1,1,0,1,1,0,1,1,0,5.8
+ML Engineer,Tech,Singapore,14,38774,1,0,0,1,1,0,0,1,1,6.4
+Data Analyst,Tech,Singapore,18,142441,1,1,1,1,1,0,1,0,1,6.0
+ML Engineer,Finance,Remote,16,58774,1,1,1,1,1,0,1,0,1,5.8
+DevOps Engineer,Education,REMOTE,,143391,0,1,1,1,0,1,1,1,1,
+Data Scientist,Education,San Francisco,,173730,1,1,1,0,1,1,1,1,1,8.9
+Backend Developer,Healthcare,Remote,4,,1,1,0,0,0,0,1,0,1,
+UI/UX Designer,Education,NewYork,1,62081,1,1,1,1,1,1,1,1,1,4.6
+Backend Developer,Healthcare,San Francisco,10,108759,1,1,1,1,1,0,0,0,0,5.6
+Data Analyst,Healthcare,New York,0,177187,1,1,1,1,0,0,1,1,1,8.4
+Data Analyst,Education,Kuala Lumpur,5,36323,1,1,1,1,0,0,1,1,1,7.1
+Backend Developer,Finance,San Francisco,18,96892,1,1,1,1,0,1,1,0,1,6.0
+Data Analyst,Healthcare,Remote,6,157627,,1,1,1,0,1,0,1,1,6.5
+Cybersecurity Analyst,Education,Kuala Lumpur,18,130754,1,0,1,1,1,0,1,1,1,6.1
+Data Analyst,E-commerce,Kuala Lumpur,10,115390,1,1,0,1,0,1,1,0,1,5.8
+DATA SCIENTIST,Tech,New York,19,,1,1,1,1,0,1,0,0,1,7.3
+Backend Developer,Education,London,20,42961,1,1,0,0,0,0,1,1,0,8.6
+DevOps Engineer,Education,NewYork,3,47495,0,0,1,1,1,1,0,0,1,3.7
+Backend Developer,Tech,Kuala Lumpur,11,130014,1,1,0,0,1,1,0,0,0,9.8
+DevOps Engineer,Tech,San Francisco,,35374,0,0,0,1,1,1,1,0,1,4.4
+Cybersecurity Analyst,Finance,Remote,4,,0,0,1,0,0,1,0,1,1,8.7
+Cybersecurity Analyst,Tech,San Francisco,5,159737,0,1,0,0,0,0,1,1,0,5.7
+Data Scientist,Education,New York,16,167962,1,1,0,0,1,0,0,0,1,4.0
+Cybersecurity Analyst,E-commerce,San Francisco,6,50105,0,,1,0,1,1,1,1,1,
+Product Manager,Finance,Singapore,8,142046,1,1,0,0,0,1,1,0,0,9.0
+Cloud Engineer,Finance,Kuala Lumpur,,96698,1,1,0,1,0,1,1,1,1,7.5
+Frontend Developer,Tech,Kuala Lumpur,17,96041,0,1,1,0,0,0,0,0,0,7.7
+Product Manager,Government,Kuala Lumpur,,128322,0,0,0,1,1,1,1,1,0,6.3
+ML Engineer,Government,New York,13,42237,1,1,0,1,1,0,0,1,1,3.4
+Backend Developer,Healthcare,San Francisco,15,166400,1,1,1,0,0,0,0,0,0,3.5
+Cybersecurity Analyst,Education,Kuala Lumpur,17,154687,,0,1,1,1,0,1,1,0,5.8
+Cloud Engineer,Healthcare,San Francisco,11,178792,0,,1,1,0,0,0,0,0,7.5
+UI/UX Designer,Government,Singapore,5,129573,0,1,1,0,0,1,1,1,0,6.2
+Backend Developer,Finance,Kuala Lumpur,7,100404,,,1,0,0,1,1,0,1,6.5
+Cybersecurity Analyst,Healthcare,New York,13,177207,0,1,1,1,1,1,1,1,1,6.7
+Data Scientist,Tech,Singapore,20,51246,1,1,1,0,1,0,1,0,1,4.6
+Cybersecurity Analyst,Healthcare,London,20,136687,0,0,1,1,0,1,0,1,1,4.6
+UI/UX Designer,Tech,Singapore,1,84310,1,,1,0,0,1,1,0,0,3.3
+Data Analyst,E-commerce,San Francisco,17,98924,1,1,1,1,0,0,0,0,1,6.5
+Backend Developer,Finance,Remote,16,128620,1,1,1,0,0,0,0,0,0,9.4
+Frontend Developer,Healthcare,Remote,1,52239,0,0,1,0,0,1,1,1,1,7.9
+ML Engineer,Education,New York,6,75403,1,1,1,1,1,0,0,1,1,
+UI/UX Designer,E-commerce,Kuala Lumpur,8,174153,1,1,1,0,1,1,0,1,0,4.3
+Cloud Engineer,Government,San Francisco,5,130854,0,1,1,1,1,0,1,0,0,4.8
+DevOps Engineer,Healthcare,San Francisco,19,79691,0,0,0,1,0,0,1,1,1,3.0
+UI/UX Designer,Education,New York,9,160669,1,0,1,0,0,1,1,0,1,4.1
+UI/UX Designer,Education,London,3,94256,1,0,1,1,0,1,1,0,1,6.5
+Frontend Developer,Government,San Francisco,16,,1,0,1,0,0,0,1,1,1,9.8
+UI/UX Designer,Finance,San Francisco,1,44242,0,0,1,1,1,1,0,0,1,5.6
+Backend Developer,E-commerce,London,19,163858,1,1,0,0,0,1,1,0,0,9.6
+Cybersecurity Analyst,Healthcare,Remote,4,129728,1,0,1,0,1,0,0,1,0,3.9
+Data Analyst,Tech,New York,5,45387,1,,0,0,0,0,1,1,1,7.8
+Cybersecurity Analyst,Government,London,16,160550,0,0,0,0,0,0,0,1,1,7.3
+DevOps Engineer,Tech,San Francisco,8,55603,1,,1,1,1,0,0,0,1,4.4
+Cybersecurity Analyst,Government,KL,16,51864,0,1,0,1,0,0,1,1,0,5.5
+DevOps Engineer,Finance,KL,9,104742,0,1,1,1,1,1,1,0,1,4.3
+ML Engineer,Education,Remote,7,35277,1,0,1,1,1,1,1,1,0,7.4
+Backend Developer,Education,Kuala Lumpur,15,72753,1,1,0,1,1,1,1,0,1,6.2
+ML Engineer,Government,London,19,45939,1,1,0,1,1,0,1,1,1,9.9
+UI/UX Designer,Education,London,7,107185,1,1,1,0,0,1,0,0,0,6.4
+Data Scientist,Healthcare,Kuala Lumpur,10,132107,1,1,0,1,1,1,0,0,1,8.9
+Data Analyst,E-commerce,Remote,15,156711,1,1,1,0,0,1,1,0,1,
+Data Analyst,Finance,Remote,6,70018,1,1,1,0,0,0,1,1,1,9.4
+ML Engineer,Healthcare,New York,,30320,1,0,1,1,1,1,0,1,1,5.4
+UI/UX Designer,Tech,Singapore,5,44536,0,1,1,0,1,1,0,1,0,4.4
+Backend Developer,Tech,Singapore,9,56589,1,1,0,1,1,1,0,0,0,8.2
+ML Engineer,E-commerce,Singapore,17,172929,1,0,0,1,1,0,1,1,0,4.2
+DevOps Engineer,Finance,Singapore,13,136100,0,0,1,1,0,0,0,1,0,5.9
+Cloud Engineer,Finance,Remote,17,159064,1,0,0,1,0,0,0,0,0,9.3
+Frontend Developer,Finance,London,8,80165,1,1,1,1,0,0,1,0,0,4.3
+devops engineer,Government,San Francisco,,49873,1,1,0,0,1,1,0,0,1,6.3
+Data Analyst,E-commerce,Singapore,1,173435,1,1,1,0,1,0,0,0,1,8.7
+Cybersecurity Analyst,Healthcare,Remote,0,104119,0,0,0,1,1,1,1,1,0,3.5
+Product Manager,Healthcare,Singapore,8,37406,,1,0,0,0,1,1,1,1,4.8
+Backend Developer,Tech,Singapore,12,116025,1,1,0,1,1,1,1,1,0,7.2
+Backend Developer,Finance,London,10,100189,1,1,0,1,0,1,0,1,0,8.6
+DevOps Engineer,Education,London,3,60303,1,1,1,1,1,0,1,0,0,6.6
+Data Scientist,Healthcare,London,1,125993,1,1,1,0,1,0,1,1,1,5.7
+Backend Developer,Tech,Remote,15,35962,1,1,0,0,1,1,1,1,1,
+ML Eng,Government,Kuala Lumpur,3,54492,1,1,1,0,1,0,0,0,1,3.3
+Cybersecurity Analyst,Tech,San Francisco,2,164234,1,0,1,1,1,0,1,1,0,4.6
+Cybersecurity Analyst,Education,Remote,2,109774,1,0,1,0,0,1,0,1,0,4.9
+Frontend Developer,Government,Remote,8,,0,0,1,0,1,0,0,0,1,3.3
+Backend Developer,Education,San Francisco,5,144205,,1,1,1,1,0,0,0,1,9.5
+Cloud Engineer,E-commerce,San Francisco,4,78336,0,0,0,1,1,1,0,0,0,3.4
+Product Manager,Education,New York,4,114835,1,1,0,0,1,1,1,0,1,6.2
+Frontend Developer,Education,New York,17,131421,1,0,1,0,0,1,0,0,1,9.1
+ML Engineer,Healthcare,New York,20,65317,1,1,0,1,1,0,1,1,1,7.9
+DevOps Engineer,Healthcare,New York,1,121230,0,0,0,1,0,1,0,1,0,
+Product Manager,Tech,New York,2,55409,0,0,1,0,1,1,1,1,0,3.4
+DevOps Engineer,Tech,New York,19,152174,0,1,1,1,1,1,1,1,1,8.7
+Frontend Developer,Tech,Remote,20,86254,0,1,1,1,0,1,0,0,0,5.0
+Product Manager,Education,Remote,3,52452,,1,1,1,1,1,1,0,0,5.4
+Backend Developer,Education,New York,6,98308,1,1,1,1,0,0,0,1,1,9.9
+Cybersecurity Analyst,Tech,Singapore,20,108231,0,1,0,1,1,0,0,1,1,4.6
+Cybersecurity Analyst,Tech,San Francisco,3,122667,1,1,0,0,1,1,0,1,0,8.3
+Cybersecurity Analyst,Education,Singapore,14,66880,1,0,0,1,1,0,1,1,1,9.6
+Cloud Engineer,Government,Kuala Lumpur,20,147238,1,0,1,1,1,1,0,0,1,5.9
+Data Analyst,Finance,Singapore,2,44362,1,1,0,1,0,1,1,1,1,10.0
+Cybersecurity Analyst,Healthcare,KL,12,102492,0,0,1,0,0,0,0,1,0,4.5
+Devops,Government,New York,20,76571,0,0,0,1,1,0,1,1,0,3.6
+Data Analyst,Tech,New York,10,721780,1,1,1,1,1,1,0,1,1,7.0
+Data Scientist,Government,new york,13,125373,1,1,1,0,1,1,1,0,1,6.4
+Cloud Engineer,Tech,London,3,125245,0,1,0,1,0,1,1,1,0,6.9
+Cloud Engineer,Healthcare,Kuala Lumpur,2,80679,0,0,1,1,1,1,0,0,1,5.3
+Data Analyst,Healthcare,London,1,32738,1,1,0,1,0,0,1,0,1,8.6
+Data Analyst,Healthcare,Kuala Lumpur,17,130958,1,1,1,1,1,0,0,0,1,7.5
+DevOps Engineer,Education,New York,2,67305,1,0,0,1,0,1,1,0,0,7.1
+Data Analyst,Government,San Francisco,0,143601,1,1,0,1,1,0,0,1,1,7.7
